@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Web3](README.md)
+* [Gitcoin](gitcoin.md)
 * [Hackathons](hackathons.md)
 * [Bounties](bounties.md)
 * [Quests](quests.md)
