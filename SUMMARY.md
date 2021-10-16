@@ -1,6 +1,6 @@
 # Table of contents
 
-* [欢迎来到Gitcoin](README.md)
+* [Welcome to Gitcoin](README.md)
 * [Hackathons](hackathons.md)
 * [Bounties](bounties.md)
 * [Quests](quests.md)
