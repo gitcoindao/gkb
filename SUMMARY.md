@@ -8,7 +8,7 @@
 
 ## Gitcoin DAO
 
-* [What is a DAO ?](gitcoin-dao/what-is-a-dao.md)
+* [什么是 DAO ?](gitcoin-dao/what-is-a-dao.md)
 * [DAO FAQ](gitcoin-dao/dao-faq/README.md)
   * [What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [What is Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
