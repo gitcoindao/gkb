@@ -81,10 +81,11 @@
 
 ## External links
 
-* [Moonshot Collective](https://moonshotcollective.space/)
+* [Moonshot Collective](https://moonshotcollective.space)
 
 ## Gitcoin Policy
 
+* [Appeals](gitcoin-policy/appeals.md)
 * [Code of Conduct](gitcoin-policy/code-of-conduct.md)
 * [Policy](gitcoin-policy/policy/README.md)
   * [Introduction](gitcoin-policy/policy/introduction/README.md)
@@ -112,7 +113,7 @@
     * [Platform Level Grant Participation Policy](gitcoin-policy/policy/grant-participation-policy/platform-level-grant-participation-policy.md)
     * [Ecosystem Level Grant Participation Policy](gitcoin-policy/policy/grant-participation-policy/ecosystem-level-grant-participation-policy/README.md)
       * [Side Round Ecosystem Policy Documentation](gitcoin-policy/policy/grant-participation-policy/ecosystem-level-grant-participation-policy/side-round-ecosystem-policy-documentation/README.md)
-        * [Ethereum Ecosystem Participation Policy \(GR11, GR10, GR9, etc.\)](gitcoin-policy/policy/grant-participation-policy/ecosystem-level-grant-participation-policy/side-round-ecosystem-policy-documentation/ethereum-ecosystem-participation-policy-gr11-gr10-gr9-etc..md)
+        * [Ethereum Ecosystem Participation Policy (GR11, GR10, GR9, etc.)](gitcoin-policy/policy/grant-participation-policy/ecosystem-level-grant-participation-policy/side-round-ecosystem-policy-documentation/ethereum-ecosystem-participation-policy-gr11-gr10-gr9-etc..md)
         * [GitcoinDAO Ecosystem Participation Policy](gitcoin-policy/policy/grant-participation-policy/ecosystem-level-grant-participation-policy/side-round-ecosystem-policy-documentation/gitcoindao-ecosystem-participation-policy.md)
         * [All Exclusive Ecosystem Policy Documentation](gitcoin-policy/policy/grant-participation-policy/ecosystem-level-grant-participation-policy/side-round-ecosystem-policy-documentation/all-exclusive-ecosystem-policy-documentation.md)
   * [User Participation Policy](gitcoin-policy/policy/user-participation-policy/README.md)
@@ -138,4 +139,3 @@
     * [Human Review](gitcoin-policy/policy/active-defense-measures/human-review.md)
   * [The Fraud Tax](gitcoin-policy/policy/the-fraud-tax.md)
   * [Community Oversight](gitcoin-policy/policy/community-oversight.md)
-
