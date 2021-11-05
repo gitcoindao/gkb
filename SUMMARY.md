@@ -139,3 +139,4 @@
     * [Human Review](gitcoin-policy/policy/active-defense-measures/human-review.md)
   * [The Fraud Tax](gitcoin-policy/policy/the-fraud-tax.md)
   * [Community Oversight](gitcoin-policy/policy/community-oversight.md)
+* [Dao User Policy](gitcoin-policy/dao-user-policy.md)
