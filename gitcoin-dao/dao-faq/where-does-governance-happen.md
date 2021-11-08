@@ -1,7 +1,6 @@
-# Where does governance happen?
+# 哪里进行 GTC 治理？
 
-* [Discord](http://discord.gg/gitcoin) is for chatting with your peers and building soft consensus on your ideas.
-* [Gov.gitcoin.co](https://gov.gitcoin.co/) is where governance proposals and discussion happens.
-* [Snapshot](https://snapshot.org/#/gitcoin) is used for off-chain voting and discussion.
-* [Tally](https://www.withtally.com/governance/gitcoin) is used for on-chain voting.
-
+* [Discord](http://discord.gg/gitcoin) 用于与您的同龄人聊天并就您的想法达成共识。
+* [Gov.gitcoin.co](https://gov.gitcoin.co) 是治理提案和讨论发生的地方。
+* [Snapshot](https://snapshot.org/#/gitcoin) 用于链下投票和讨论。
+* [Tally](https://www.withtally.com/governance/gitcoin) 用于链上投票。

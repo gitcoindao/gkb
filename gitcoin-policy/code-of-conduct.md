@@ -1,21 +1,20 @@
-# Code of Conduct
+# 行为守则
 
-**Our Pledge**
+**我们的承诺**
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.  
-  
-**Our Standards**
+为了促进一个开放和受欢迎的环境，作为贡献者和维护者，我们承诺使 Gitcoin 和我们的社区没有骚扰，无论年龄、体型、是否残疾、种族、性别特征、性别认同和表达、经验水平、教育、社会经济地位、国籍、个人外表、种族、宗教或性认同和性取向，都平等对待。
 
-Examples of behavior that contributes to creating a positive environment include:
+**我们的标准**
 
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
+以下是一些有助于创造一个积极的环境的行为的例子：
 
-  
-Examples of unacceptable behavior by participants include:
+* 使用受欢迎和具有包容性的语言
+* 尊重不同的观点和经历
+* 虚心地接受有建设性的意见
+* 专注做对社区最有利的事情
+* 对其他社区成员有共情能力
+
+参与者不可接受的行为的例子包括：
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
@@ -46,6 +45,3 @@ Attribution This Code of Conduct is adapted from the Contributor Covenant, versi
 For answers to common questions about this code of conduct, see:
 
 {% embed url="https://www.contributor-covenant.org/faq" %}
-
-
-

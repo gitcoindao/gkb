@@ -1,6 +1,5 @@
-# What does a future Gitcoin DAO look like?
+# 未来 Gitcoin DAO 会是什么样子？
 
-A Gitcoin DAO could be the community governed org that will be responsible for the future of Gitcoin.
+Gitcoin DAO是一个由社区管理的组织，将对 Gitcoin 的未来负责。
 
-We hope it’s the vessel that will take us to Quadratic Lands, the ideal future state where public goods are democratically allocated and appropriately funded.
-
+我们希望它能带我们走向 Quadratic Lands，一个民主分配和适当资助公共产品的理想状态。

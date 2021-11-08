@@ -1,47 +1,47 @@
 # Table of contents
 
-* [Welcome to Gitcoin](README.md)
-* [Hackathons](hackathons.md)
-* [Bounties](bounties.md)
-* [Quests](quests.md)
-* [Grants](grants.md)
+* [欢迎来到 Gitcoin](README.md)
+* [黑客松](hackathons.md)
+* [捐款](bounties.md)
+* [观众](quests.md)
+* [赏金](grants.md)
 
 ## Gitcoin DAO
 
 * [什么是 DAO ?](gitcoin-dao/what-is-a-dao.md)
 * [DAO FAQ](gitcoin-dao/dao-faq/README.md)
-  * [What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
-  * [What is Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
-  * [What are governance workstreams?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
-  * [How do I get involved in governance?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
-  * [What is the Gitcoin Stewards Delegation Program?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
-  * [Who chooses Stewards?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
-  * [Tell me more about Stewardship.](gitcoin-dao/dao-faq/tell-me-more-about-stewardship..md)
-  * [Where does governance happen?](gitcoin-dao/dao-faq/where-does-governance-happen.md)
-  * [What does a future Gitcoin DAO look like?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
-  * [Will you eventually dissolve Gitcoin as a company?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
+  * [什么是 GitcoinDAO？](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
+  * [什么是 Quadratic Lands？](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
+  * [什么是治理工作小组？](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
+  * [我如何参与治理？](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
+  * [什么是 Gitcoin Stewards 委托计划？](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
+  * [谁来选择 Stewards？](gitcoin-dao/dao-faq/who-chooses-stewards.md)
+  * [了解更多 Stewardship 信息](gitcoin-dao/dao-faq/tell-me-more-about-stewardship..md)
+  * [哪里进行 GTC 治理？](gitcoin-dao/dao-faq/where-does-governance-happen.md)
+  * [未来 Gitcoin DAO 会是什么样子？](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
+  * [Gitcoin 作为一个公司最终会解散吗？](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
 
 ## Gitcoin Token
 
-* [What is a token ?](gitcoin-token/what-is-a-token.md)
-* [GTC FAQ](gitcoin-token/gtc-faq/README.md)
-  * [Why is Gitcoin launching a token?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
-  * [What is the address of GTC?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
-  * [What is the GTC Issuance?](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
-  * [How do I claim my token ?](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
-  * [I try to claim my tokens on mobile and it didn't work!](gitcoin-token/gtc-faq/i-try-to-claim-my-tokens-on-mobile-and-it-didnt-work.md)
-  * [I missed the GTC token claim, what happens next?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
-  * [Quadratic Lands Token Distribution web3 support-Delegate Voting Power](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
-  * [Quadratic Lands Token Distribution web3 support- Token Claim](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
-  * [Quadratic Lands Token Distribution web3 support- Signed Message Vote](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
+* [什么是代币](gitcoin-token/what-is-a-token.md)
+* [GTC 常见问题](gitcoin-token/gtc-faq/README.md)
+  * [Gitcoin 为什么发行代币？](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
+  * [GTC 的地址是什么？](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
+  * [GTC 代币发行情况？](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
+  * [如何领取我的 GTC 代币？](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
+  * [试图在手机上认领我的代币，但没有成功！](gitcoin-token/gtc-faq/i-try-to-claim-my-tokens-on-mobile-and-it-didnt-work.md)
+  * [错过了 GTC 代币的认领，会怎样？](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
+  * [Quadratic Lands 代币分配 web3 支持 —— 委托投票](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
+  * [Quadratic Lands 代币分配 web3 支持- 代币认领](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
+  * [Quadratic Lands 代币分配 web3 支持 —— 投票签名](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [What happens to my delegations if I transfer the tokens to someone else?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
   * [What types of things can the community govern with GTC?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
   * [Why don’t I have tokens?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
 
 ## Gitcoin Grants
 
-* [What are Gitcoin Grants ?](gitcoin-grants/what-is-a-grant.md)
-* [Grants FAQ](gitcoin-grants/grants-faq/README.md)
+* [什么是 Gitcoin Grants？](gitcoin-grants/what-is-a-grant.md)
+* [捐款常见问题](gitcoin-grants/grants-faq/README.md)
   * [What is the scope of Gitcoin Grants?](gitcoin-grants/grants-faq/what-is-the-scope-of-gitcoin-grants.md)
   * [Are there any grant rules I need to follow?](gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow.md)
   * [How do you prevent Sybil attacks?](gitcoin-grants/grants-faq/how-do-you-prevent-sybil-attacks.md)
@@ -67,17 +67,17 @@
 ## Gitcoin Bounties
 
 * [How bounties work ?](gitcoin-bounties/how-bounties-work.md)
-* [Bounties FAQ](gitcoin-bounties/bounties-faq/README.md)
-  * [How do I get started with Bounties](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
-  * [How do I submit work?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
+* [Bounties 常见问题](gitcoin-bounties/bounties-faq/README.md)
+  * [如何开启 Bounties？](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
+  * [如何提交工作？](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
 ## Gitcoin Quests
 
-* [What are Gitcoin Quests & Kudos ?](gitcoin-quests/what-are-gitcoin-quests-and-kudos.md)
-* [Quests FAQ](gitcoin-quests/quests-faq/README.md)
-  * [How do I mint a kudo?](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
-  * [How do I use kudos ?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
-  * [Why can't I access my account?](gitcoin-quests/quests-faq/why-cant-i-access-my-account.md)
+* [什么是 Gitcoin Quests 和 Kudos？](gitcoin-quests/what-are-gitcoin-quests-and-kudos.md)
+* [Quests 常见问题](gitcoin-quests/quests-faq/README.md)
+  * [如何 mint 一个 kudos？](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
+  * [如何使用 Kudos?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
+  * [为什么不能访问我的账户？](gitcoin-quests/quests-faq/why-cant-i-access-my-account.md)
 
 ## External links
 
@@ -85,7 +85,7 @@
 
 ## Gitcoin Policy
 
-* [Code of Conduct](gitcoin-policy/code-of-conduct.md)
+* [行为守则](gitcoin-policy/code-of-conduct.md)
 * [Policy](gitcoin-policy/policy/README.md)
   * [Introduction](gitcoin-policy/policy/introduction/README.md)
     * [The Gitcoin Mission](gitcoin-policy/policy/introduction/the-gitcoin-mission.md)

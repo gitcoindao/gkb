@@ -1,8 +1,7 @@
-# Quadratic Lands Token Distribution web3 support- Signed Message Vote
+# Quadratic Lands 代币分配 web3 支持 —— 投票签名
 
-If you choose to not delegate your voting power to a steward \(power to the people FTW!\) you will be asked to help chart the future of Gitcoin by proving feedback on the development road map.
+如果您选择不把您的投票权委托给管家（权力属于人民！！），您会被要求提供对发展路线图的反馈，来帮助 Gitcoin 进行未来规划。
 
-You will be prompted to sign a message with your active Ethereum account to solidify your preference. This signed message does not require any gas fees and is not being broadcast on-chain for now.
+您需要用您的以太坊地址签名，来确认您的投票。这个签名信息不需要任何 Gas 费，而且暂时不在链上广播。
 
-While it's possible that Gitcoin could use these signed messages as a foundation for a future airdrop or something, for now, we're just collecting these votes up to help us better understand what direction the Gitcoin community would like to see Gitcoin go.
-
+虽然 Gitcoin 有可能将这些签名信息作为未来空投的基础，但现在我们只是收集投票，进而帮助更好地了解社区更偏好的 Gitcoin 未来。

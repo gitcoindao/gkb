@@ -1,6 +1,5 @@
-# Will you eventually dissolve Gitcoin as a company?
+# Gitcoin 作为一个公司最终会解散吗？
 
-Maybe. Or maybe Gitcoin Holdings will continue on, curating grants or collections.
+也许。或者 Gitcoin Holdings 可能会继续发展，策划捐赠或收藏。
 
-We are not yet sure how this will take shape.
-
+我们不确定未来会如何。

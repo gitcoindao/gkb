@@ -1,75 +1,74 @@
-# What is the GTC Issuance?
+# GTC 代币发行情况？
 
-The Gitcoin token \(GTC\) is distributed to active participants in Gitcoin’s mission. 
+Gitcoin代币（GTC）被分配给那些积极参与 Gitcoin 任务的人。
 
-**GTC has no economic value; it is a governance token used to oversee the Gitcoin ecosystem. It has no claim on financial rights.**
+GTC 没有经济价值；它是一种用于监督 Gitcoin 生态系统的治理代币。它对金融权利没有要求。
 
-**The contract address of GTC is 0xde30da39c46104798bb5aa3fe8b9e0e1f348163f**
+GTC 的 合约地址是 **0xde30da39c46104798bb5aa3fe8b9e0e1f348163f**
 
-_Note: **Please triple check the contract address when interacting with GTC**. There are likely to be many malicious actors trying to leverage fake tokens to their benefit!_
+注意：在与 GTC 合约交互时，请再三检查合约地址。因为有很多恶意的人试图利用假的代币为自己谋取利益!
 
-The total supply of GTC is 100,000,000 \(100M\) tokens, broken down as follows.
+GTC的总供应量为 100,000,000（100M）代币，细分如下：
 
-* Retroactive Airdrop – 15%
-* Gitcoin DAO – 50%
-* Existing Stakeholders – 35%
+* 回溯空投 - 15%
+* Gitcoin DAO - 50%
+* 现有利益相关者 - 35%
 
-The intent of this distribution is to split GTC evenly between past and future contributors. 50% to those who’ve built Gitcoin so far \(retro + stakeholders\) and 50% to the builders of tomorrow.
+这种分配的意图是将 GTC 在过去和未来的贡献者之间平均分配。50% 已经给那些为 Gitcoin 做贡献的人（追溯 + 利益相关者），50% 给未来的建设者。
 
-**Retroactive Airdrop – 15,000,000 GTC \(15%\)**
+**追加空投 - 15,000,000 GTC (15%)**
 
-15% of the GTC supply is being retroactively distributed to past users of Gitcoin.
+15% 的 GTC 供应量将被追溯性地分配给 Gitcoin 的过去用户。这一分配被细分如下：
 
-This allocation is broken down as follows:
+| **分配类型**    | **分配百分比** | **代币数量**       |
+| ----------- | --------- | -------------- |
+| GMV (50/50) | 72%       | 10,080,000     |
+| 平台上的行为      | 20.4%     | 3,060,000      |
+| KERNEL      | 1.6%      | 240,000        |
+| 资助者联盟       | 6%        | 900,000        |
+| **总计**      | **100%**  | **15,000,000** |
 
-| **ALLOCATION TYPE** | **ALLOCATION** % | **TOKEN** COUNT |
-| :--- | :--- | :--- |
-| GMV \(50/50\) | 72% | 10,080,000 |
-| On-Platform Actions | 20.4% | 3,060,000 |
-| KERNEL | 1.6% | 240,000 |
-| Funders League | 6% | 900,000 |
-| **Total** | **100%** | **15,000,000** |
+(所有用户在各自的分配组中上限为2%)
 
-_\(all users capped at 2% in each respective allocation group\)_
+GMV - 市场总价值的简称 - 描述了任何通过 Gitcoin 创造价值流动的行为。这包括赏金、小费、黑客活动和补助。GMV 的分配在花费者和赚取者之间平均分配（50/50），这意味着那些从 Gitcoin 赚取资金的人分得一桶 GTC，而那些花费资金的人（如捐赠给 Grants）分得另一桶。
 
-GMV – short for Gross Marketplace Value — describes any action in which value flowed through Gitcoin. This includes bounties, tips, hackathons, and grants. GMV allocations were split evenly between spenders and earners \(50/50\), meaning those who earned funds from Gitcoin split one bucket of GTC while those who spent funds \(like donating to Grants\) split another bucket. 
+平台上的行为指的是任何用户，他们：
 
-On-platform actions refers to any user who:
+* 开启了一个悬赏任务
+* 向赏金提交了工作
+* 开启了一项资助
+* 为赏金做了贡献
 
-* Opened a bounty
-* Submitted work to a bounty
-* Opened a grant
-* Contributed to a grant 
+这一块（用户活动）的分布包括一个衰减，这意味着在 Gitcoin 生命周期早期进行的行动会有更大的权重。
 
-This piece \(user activity\) of the distribution included a decay, meaning actions performed early in Gitcoin’s lifecycle are weighted more heavily.
+一部分代币是为 [KERNEL](http://kernel.community) 的成员保留的，将根据第一块和第二块的互动和参与情况进行分配。&#x20;
 
-A portion of tokens are reserved for members of [KERNEL](http://kernel.community/), to be allocated based on interactions and participation in Block I and Block II.  
-  
-Projects who participated in the Funder’s League will split a GTC allocation. This was calculated by splitting total contribution amounts to the Funders League matching pool and issuing GTC pro rata.
+参加资助者联盟的项目将分成 GTC 分配。这是通过拆分对资助者联盟匹配池的总捐款金额和按比例发放 GTC 来计算的。
 
-To claim GTC, head over to [quadraticlands.com](https://gitcoin.co/quadraticlands?utm_source=gitcoin&utm_medium=blog&utm_campaign=gtclaunch) and follow the instructions.
+要认领 GTC，请前往 [quadraticlands.com](https://gitcoin.co/quadraticlands) 并按照指示操作。
 
-Users will be required to take a trip through Quadratic Lands to claim their tokens, and will be met by a request to delegate tokens to themselves or one of the [Gitcoin Stewards](https://gov.gitcoin.co/t/introducing-stewards-governance/41) as a first use of GTC.
+用户需要通过 Quadratic Lands 来认领他们的代币，并会被要求将代币委托给自己或 [Gitcoin Stewards](https://gov.gitcoin.co/t/introducing-stewards-governance/41)  之一，作为 GTC 的首次使用。
 
-More details on this process will be shared in a separate post on [gov.gitcoin.co](https://gov.gitcoin.co/).
+关于这个过程的更多细节将在 [gov.gitcoin.co](http://gov.gitcoin.co) 上的一个单独帖子中分享。
 
-**Gitcoin’s DAO – 50,000,000 GTC \(50%\)**
+**Gitcoin DAO – 50,000,000 GTC (50%)**
 
-Half of the GTC supply will be deposited into the timelock contract held in the Gitcoin DAO treasury, governed directly through on-chain GTC voting.
+一半的 GTC 供应将被存入 Gitcoin DAO 财政库中带有时间锁的合约，通过链上 GTC 投票直接管理。
 
-The address of the Gitcoin DAO can be found at gitcoindao.eth.
+Gitcoin DAO 的地址可以在 gitcoindao.eth 找到。
 
-GTC allocated to the Gitcoin DAO will become available for distribution in equal monthly installments over the course of the next 2 years, meaning the full allocation will be unlocked by ~May 25th, 2023.
+分配给 Gitcoin DAO 的 GTC 将在未来两年内按月等额分配，这意味着所有的代币将在 2023 年 5 月 25 日之前解锁完毕。
 
-Gitcoin will utilize a fork of Compound’s governance framework, meaning all proposals feature a 1% minimum proposal threshold, a 2.5% quorum and require a 51% majority to pass.
+Gitcoin 将利用 Compound 的治理框架的分叉，这意味着所有的提案都有 1% 的最低提案门槛，2.5% 的法定人数，并需要 51% 的多数票才能通过。
 
-Simply put, this means that in order for a vote to be proposed on-chain, the proposer must hold at least 1% of GTC tokens. In order for that vote to pass, at least 2.5% of the GTC supply must vote on the proposal with 51% of the votes in favor of the winning decision.
+简单地说，这意味着为了在链上提议投票，提议者必须持有至少 1% 的 GTC 代币。为了使该投票通过，至少有 2.5% 的 GTC 供应量对该提案进行投票，并有 51% 的票数支持获胜的决定。
 
-**Stakeholders — 35,000,000 GTC \(35%\)**
+**利益相关者 - 35,000,000 GTC (35%)**
 
-The remainder of the Gitcoin supply is allocated to stakeholders of Gitcoin Holdings.
+剩余的 Gitcoin 供应量将分配给 Gitcoin 的利益相关者。
 
-This includes allocations to the team, investors, future employees and strategic partners of Gitcoin.  Anyone who has contributed to building Gitcoin in the past, from 2017 to 2021, is included in this allocation. This includes the core team who created the product, brand and market plus the investors who have funded the core team to the tune of $5mm \(2017-2021\) and $11.3m \(2021 & beyond\).
+这包括分配给 Gitcoin 团队、投资者、未来员工和战略合作伙伴。 任何在过去为建设 Gitcoin 做出贡献的人，从 2017 年到 2021 年，都包括在这个分配中。这包括创建产品、品牌和市场的核心团队，以及为核心团队提供 500 万美元（2017-2021 年）和 1130 万美元（2021 年及以后）资金的投资者。
 
-All GTC allocated to Gitcoin’s team members are subject to a vesting schedule of at least two years. All GTC allocated to Gitcoin’s existing stakeholders are non-transferrable for at least 500 days, or longer if Gitcoin’s Board of Directors determines that a longer period is necessary to comply with regulatory or other applicable restrictions.
+所有分配给 Gitcoin 团队成员的 GTC 都有一个至少两年的归属时间表。所有分配给 Gitcoin 现有利益相关者的 GTC 在至少 500 天内不可转让，如果 Gitcoin 董事会认为需要更长的时间来遵守监管或其他适用的限制，则时间更长。
 
+\

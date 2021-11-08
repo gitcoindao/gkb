@@ -1,10 +1,9 @@
-# What is the Gitcoin Stewards Delegation Program?
+# 什么是 Gitcoin Stewards 委托计划？
 
-So far one of the biggest challenges of DAO governance is maintaining an active community, which is crucial for legitimacy. To that end, Gitcoin is launching a liquid democracy through a Stewardship Delegation program. How it works:
+迄今为止，DAO 治理的最大挑战之一是维护一个活跃的社区，这对于合理性至关重要。为此，Gitcoin 正在通过管理委托计划启动流动民主。它如何运作：
 
-GTC holders have voting rights proportional to the amount of tokens they hold. They may assign their voting rights to community Stewards to vote on their behalf, without giving up their tokens
+GTC 持有人拥有与他们持有的代币数量成比例的投票权。他们可以将其投票权转让给社区管家，代表他们投票，而不放弃他们的代币。
 
-Stewards are active community members who participate in governance. Their influence is directly determined by the community. The more voting rights assigned to them, the more trust the community has in their stewardship.
+管家是参与治理的活跃社区成员。他们的影响力直接由社区决定。分配给他们的投票权越多，社区对他们的管理就越信任。
 
-Some of Ethereum’s most trusted members have volunteered to be the first Gitcoin Stewards, but anyone may become a Steward simply by accepting voting rights.
-
+·一些以太坊最受信任的成员自愿成为第一批 Gitcoin 管家，但任何人都可以通过接受投票权成为管家。

@@ -1,4 +1,3 @@
-# Who chooses Stewards?
+# 谁来选择 Stewards？
 
-You do as a GTC token holder, by delegating your voting power to someone you believe will use it well.
-
+作为 GTC 代币持有人，你将你的投票权委托给那些你认为会更好使用它的人。

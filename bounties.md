@@ -1,4 +1,3 @@
-# Bounties
+# 捐款
 
-Bounties How It Works
-
+赏金是如何运作的

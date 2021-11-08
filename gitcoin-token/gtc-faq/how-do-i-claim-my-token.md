@@ -1,9 +1,7 @@
-# How do I claim my token ?
+# 如何领取我的 GTC 代币？
 
-Token distribution has now concluded as of **9:00 AM MDT 🕒.**  
-  
-But you can always join a workstream to participate in Gitcoin governance!   
-If you previously submitted a support ticket for us to investigate why you may or may not have received a GTC airdrop, we are still working on this.   
-  
-Thanks for being patient !
+代币分发工作已于美国东部时间上午 9:00 结束（注：GTC 的空投已经结束！）
 
+但您可以随时加入，并参与 Gitcoin 的管理。 如果您之前提交了工单（support ticket），我们会调查为什么您没有收到 GTC 空投。我们仍在努力解决这个问题。
+
+感谢您的耐心！

@@ -1,22 +1,17 @@
-# How do I get involved in governance?
+# 我如何参与治理？
 
-Join [Discord](http://discord.gg/gitcoin) to engage with the community!
+加入 [Discord](https://discord.com/invite/gitcoin)，与社区互动！
 
-If you have tokens, delegate them to a community Steward or to yourself if you wish to participate as a Steward.
+如果你有代币，委托给社区管理人，如果你想作为 Steward 参与，就委托给自己。
 
-Discuss governance proposals on our governance forum [gov.gitcoin.co](https://gov.gitcoin.co/):
+在 [gov.gitcoin.co](https://gov.gitcoin.co) 上讨论治理建议，或在 Snapshot、Tally上投票。
 
 {% embed url="https://gov.gitcoin.co" %}
 
 Vote on [Snapshot](https://snapshot.org/#/gitcoin), or [Tally](https://www.withtally.com/governance/gitcoin):
 
-{% embed url="https://snapshot.org/\#/gitcoin" %}
+{% embed url="https://snapshot.org/#/gitcoin" %}
 
 {% embed url="https://www.withtally.com/governance/gitcoin" %}
 
-
-
-
-
 , or [Tally](https://www.withtally.com/governance/gitcoin).
-

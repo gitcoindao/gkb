@@ -1,53 +1,57 @@
 ---
-description: >-
-  The ultimate goal of Web 3.0 is to create more intelligent, connected yet
-  decentralised, secure, accessible and open applications.
+description: Web 3.0 的最终目标是创造更加智能、相互连接而又去中心化的、安全的、可访问的和开放的应用。
 ---
 
-# 欢迎来到Gitcoin
+# 欢迎来到 Gitcoin
 
-### Mission First
+###
 
-The first thing to know about Gitcoin is that we are mission first. [Our mission](https://gitcoin.co/mission) is to build and fund digital public goods. We believe that Open Source Software is a digital public good that creates $400bn/year in value, but that creators of OSS don’t have great ways to monetize their work on this digital infrastructure. Our goal is to correct this asymmetry
+### 使命优先
 
-### How we support our mission.
+关于 Gitcoin，我们非常重视使命。我们的[使命](https://gitcoin.co/mission)是建立和资助数字公共产品。我们相信，开源软件是一种数字公共产品，每年创造 4000 亿美元的价值，但开源软件的创造者，却没有很好的方法来盈利。我们的目标是弥补这种不对称性。
 
-Gitcoin is community first, and our software products a double sided market that connects digital creatives to the people who want to fund their work.\
-And visa versa. So far [we’ve created $35mm worth of funding for OSS devs](https://gitcoin.co/results).\
-Specifically, the way we do that is:
+### 如何支持我们的使命。
 
-1. Giving members opportunities to [earn](https://gitcoin.co/earn).
-2. Giving members opportunities to [learn](https://gitcoin.co/learn).
-3. Giving members opportunities to [connect with one another & prospective career opportunities](https://gitcoin.co/connect).
+在 Gitcoin，我们将社区放在第一位。我们的软件产品是一个双向市场，将数字创意与希望资助他们工作的人联系起来。\
+反之亦然。到目前为止，[我们已经为开源软件开发者创造了价值 3500 万美元的资金](https://gitcoin.co/results)。\
+具体来说，我们的方法是：
 
-**How do we do that?**
+1. &#x20;提供成员赚钱的机会 - [earn](https://gitcoin.co/earn)。
+2. 提供成员学习的机会 -  [learn](https://gitcoin.co/learn)。
+3. 提供成员[相互联系的机会和潜在的就业机会](https://gitcoin.co/connect)。
 
-1. \*\*\*\*[Bounties](https://gitcoin.co/bounties/contributor) - gig-based work for web3 projects.
-2. [Hackathons](https://gitcoin.co/hackathons) - Build w the coolest web3 projects.
-3. [Grants](https://gitcoin.co/grants) - Crowdfunding for Open Source.
-4. [KERNEL](http://kernel.community) - A web3-native, community centric accelerator.
-5. [tip.party](https://tip.party) - a small, modular tool for engaging people for showing up.
-6. [Quadratic Diplomacy](https://quadraticdiplomacy.com) - a decentralized tool for engaging contributors.
 
-### The DAO that governs Gitcoin
 
-In order to make sure that Gitcoin is serving its mission and community first, Gitcoin is governed by the community. In May 2021, [GTC was released](https://gitcoin.co/blog/introducing-gtc-gitcoins-governance-token/). GTC is a governance token with no economic value that governs Gitcoin Grants + GitcoinDAO.
+**我们是如何做的？**
 
-There are three important concepts to know to understand how to interact with GitcoinDAO.
+1. \*\*\*\*[赏金计划](https://gitcoin.co/bounties/contributor) - Web3 项目相关的零工。
+2. [黑客松](https://gitcoin.co/hackathons) - 创建最酷的 Web3 项目。
+3. [Grants](https://gitcoin.co/grants) - 为开源代码进行众筹。
+4. [KERNEL](http://kernel.community) - 一个web3原生的、以社区为中心的加速器。
+5. [tip.party](https://tip.party)
+6. [Quadratic Diplomacy](https://quadraticdiplomacy.com) - 一个去中心化的工具，用于吸引贡献者。
 
-1. Most of the action happens on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [twitter](https://twitter.com/gitcoin)
-2. [Stewards](https://gitcoin.co/blog/introducing-the-community-stewards-program/) are ultimately responsible for governing GitcoinDAO.
-3. \[Workstreams] are the primary mechanism through which work is organized in the DAO.
+### 管理 Gitcoin 的 DAO
 
-#### DAO Workstreams
+为了保证 Gitcoin 首先为使命和社区服务，Gitcoin由社区管理。2021 年 5 月，[GTC 发布](https://gitcoin.co/blog/introducing-gtc-gitcoins-governance-token/)。GTC 是一种没有经济价值的治理代币，用于治理 Gitcoin Grants + GitcoinDAO。
 
-1. [Moonshot Collective](https://www.notion.so/Moonshot-Collective-ffa78f44a0de412cb607f9b69d3a376f) is the DAO rapid prototyping workstream
-2. [Public Goods](https://www.notion.so/Public-Goods-80a3202a3a244c65b3fda08c0f7c7d60) is focused on our mission of funding public goods.
-3. [Fraud Detection & Defense](https://www.notion.so/Fraud-Detection-Defense-f1a2969a9f324f57a02ef69a60b25cae) is in charge of preventing fraud on Gitcoin Grants.
-4. [Decentralize-gitcoin](https://www.notion.so/dGrants-c3197f918bf640bc9809cd26d56c93f3) is the mechanism through which Gitcoin is progressively decentralizing.
-5. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) is the DAO marketing division.
+要了解如何与 GitcoinDAO 互动，有三个重要的概念需要知道。
 
-If you want to learn more about the GitcoinDAO, read this post [here](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200):
+1. 大多数更新都发生在 discord、[gov.gitcoin.co](http://gov.gitcoin.co) 或 [twitter](https://twitter.com/gitcoin) 上。
+2. [Stewards](https://gitcoin.co/blog/introducing-the-community-stewards-program/) 最终负责管理 GitcoinDAO。
+3.  \[Workstreams] 是 DAO 中组织协调工作的主要机制。
+
+
+
+#### DAO 工作流
+
+1. [Moonshot Collective](https://www.notion.so/Moonshot-Collective-ffa78f44a0de412cb607f9b69d3a376f) 是 DAO 的快速原型设计工作流。
+2. [Public Goods](https://www.notion.so/Public-Goods-80a3202a3a244c65b3fda08c0f7c7d60) 专注于我们资助公共产品的使命。
+3. [Fraud Detection & Defense](https://www.notion.so/Fraud-Detection-Defense-f1a2969a9f324f57a02ef69a60b25cae) 负责防止 Gitcoin 捐款的欺诈。
+4. [Decentralize-gitcoin](https://www.notion.so/dGrants-c3197f918bf640bc9809cd26d56c93f3) 是 Gitcoin 逐步去中心化的机制。
+5. [Memes, Merch, & Marketing](https://www.notion.so/Merch-Memes-Marketing-c1bd89fac8ab4569bf2a676df28025d8) 是 DAO 的市场部门。
+
+如果你想了解更多关于 GitcoinDAO 的信息，请阅读[这里](https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200)的文章。
 
 {% embed url="https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200" %}
 
@@ -55,25 +59,29 @@ If you want to learn more about the GitcoinDAO, read this post [here](https://go
 
 Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem revolves around a quarterly stacked event - a combination Gitcoin Grants round, Hackathon, and KERNEL block - where millions of \$$$ of funding are deployed to the community. Typically a quarter looks like this:
 
-1. Plan for quarterly stacked event.
-2. Execute quarterly stacked event.
-3. Learn from the quarterly stacked event.
-4. Repeat
+DAO的季度节奏&#x20;
 
-The next quarterly event is GR12 starting in December 2021.
+Gitcoin以季度为单位进行运作。每个季度，Gitcoin 生态系统都围绕着一个季度性的各种活动 -- Gitcoin Grants、黑客马拉松和 KERNEL 的组合 -- 数百万美元的资金会给到社区。一般来说，一个季度是这样的：
 
-### DAO KPIs
+1. 计划季度叠加活动
+2. 执行季度叠加活动
+3. 从季度叠加活动中学习
+4. 重复进行
 
-Right now the DAO is focused on:
+下一个季度的活动是 2021 年 12 月开始的 GR12。
 
-1. Creating more ecosystem impact (measured in \$$$ distributed to devs)
-2. Decentralizing Gitcoin.
+### DAO 的 KPI
 
-[Ongoing discussions on these KPIs here](https://gov.gitcoin.co/t/what-are-the-kpis-that-gitcoindao-optimizes-for/8497):
+现在，DAO 的重点是：
+
+1. 创造更多的生态影响（以分配给开发者的美元计算）
+2. 去中心化 Gitcoin
+
+[您可以在这里看到更多关于 KPI 的讨论：](https://gov.gitcoin.co/t/what-are-the-kpis-that-gitcoindao-optimizes-for/8497)👍
 
 {% embed url="https://gov.gitcoin.co/t/what-are-the-kpis-that-gitcoindao-optimizes-for/8497" %}
 
-### How to get involved.
+### 如何参与
 
 As of September 2021, here is the way you can get involved in the DAO.
 
@@ -85,7 +93,7 @@ As of September 2021, here is the way you can get involved in the DAO.
 6. Use Gitcoin to earn, learn, or fund. (use links above).
 7. Explore any of the links below:
 
-### Links
+### 链接
 
 * [Gitcoin.co](https://gitcoin.co)
 * [Gitcoin Schwag Store](https://store.gitcoin.co)
@@ -117,4 +125,4 @@ As of September 2021, here is the way you can get involved in the DAO.
 
 > Thanks to [@gitcoin](https://gov.gitcoin.co/u/gitcoin) it has helped us to discover our earliest talent and supercharged @KodaDot development. - Matej
 
-> People ask me all the time how I got into Solidity and NFT dev. The answer is [@gitcoin](https://gov.gitcoin.co/u/gitcoin)! Beginning of the year I just started doing bounties for a bunch of different projects (@synthetix_io @akashnet\_ @SovrynBTC etc) and found the NFT ones were my fave. Such a good way to learn! - sarasioux.eth
+> People ask me all the time how I got into Solidity and NFT dev. The answer is [@gitcoin](https://gov.gitcoin.co/u/gitcoin)! Beginning of the year I just started doing bounties for a bunch of different projects (@synthetix\_io @akashnet\_ @SovrynBTC etc) and found the NFT ones were my fave. Such a good way to learn! - sarasioux.eth

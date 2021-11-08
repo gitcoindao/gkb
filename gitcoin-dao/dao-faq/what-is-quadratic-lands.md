@@ -1,11 +1,10 @@
-# What is Quadratic Lands?
+# 什么是 Quadratic Lands？
 
-Quadratic Lands is the destination we hope to bring the world to:
+Quadratic Lands 是我们希望把世界带往的目的地：
 
-1. There are numerous opportunities to create financial sovereignty while working side-by-side with people who share similar values.
-2. Individuals have the sovereignty to make their own choices, but incentives are aligned for cooperation that generates both individual and community benefit.
-3. The economic infrastructure is a set of economic games with transparent rules that cannot be changed without community consent.
-4. Because of the composability of blockchain-based systems, the surface area of opportunity will exponentially grow as the tools compound upon each other.
+1. 在与具有相似价值观的人并肩工作的同时，有许多机会可以创造金融主权。
+2. 个人拥有做出自己选择的主权，但激励是一致的，合作产生个人和社区利益。
+3. 经济基础设施是一套规则透明的经济游戏，未经社区同意不得更改。
+4. 由于基于区块链的系统的可组合性，随着工具相互组合，机会将呈指数增长。
 
-We long to see the Quadratic Lands. Let’s go there together!
-
+我们期待 Quadratic Lands。让我们一起到达那里！

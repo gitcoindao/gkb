@@ -1,8 +1,5 @@
-# Why is Gitcoin launching a token?
+# Gitcoin 为什么发行代币？
 
-The short answer is we know we need to decentralize, and GTC is the best way to do that.  
-Increasingly, more people and projects are using Gitcoin to build and fund digital public goods, and as Gitcoin becomes more popular we are faced with governance questions.
+简而言之，我们知道我们需要去中心化，而 GTC 是实现这一目标的最佳途径。
 
-We do not want to be a centralized arbiter, making decisions best left to the community.  
-So we launched GTC to allow the community to actively participate in governing Gitcoin.
-
+越来越多的人和项目在使用 Gitcoin 来建立和资助。我们不想成为一个中心化的仲裁者，做出对社区的决定。所以我们推出了 GTC，让社区积极参与管理 Gitcoin。

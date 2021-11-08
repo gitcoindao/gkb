@@ -1,9 +1,7 @@
-# I missed the GTC token claim, what happens next?
+# 错过了 GTC 代币的认领，会怎样？
 
-Token distribution has now concluded as of **9:00 AM MDT 🕒.**  
-  
-But you can always join a workstream to participate in Gitcoin governance! [🐙](https://emojipedia.org/octopus/#:~:text=An%20octopus%2C%20a%20sea%20animal,arms%20raised%20at%20its%20sides.&text=Octopus%20was%20approved%20as%20part,to%20Emoji%201.0%20in%202015.)  
-If you previously submitted a support ticket for us to investigate why you may or may not have received a GTC airdrop, we are still working on this.   
-  
-Thanks for being patient !
+代币分发工作已于美国东部时间上午 9:00 结束（已经结束），但您可以随时加入工作流（工作小组），参与 Gitcoin 的治理。
 
+如果你之前支持过我们，但是却没有收到空投，我们正在调查并努力解决这个问题。
+
+谢谢你的耐心等待!
