@@ -4,7 +4,7 @@ description: Big-picture introduction to Gitcoin Appeals for denied grants.
 
 # Introduction to Appeals for Denied Grants.
 
-Gitcoin ensures g grant application gets a written-review by multiple members of the Fraud Detection & Defence (FDD) workstream who try to determine if a grant and its applicant are compliant with the relevant Grant Eligibility Policy. More about the FDD workstream can be found here: [https://www.notion.so/gitcoin/The-Role-of-FDD-37c350abc200487db6fa8ffc9ab98e08](https://www.notion.so/gitcoin/The-Role-of-FDD-37c350abc200487db6fa8ffc9ab98e08)&#x20;
+Gitcoin ensures each grant application gets a written-review by multiple members of the Fraud Detection & Defence (FDD) workstream who try to determine if a grant and its applicant are compliant with the relevant Grant Eligibility Policy. More about the FDD workstream can be found here: [https://www.notion.so/gitcoin/The-Role-of-FDD-37c350abc200487db6fa8ffc9ab98e08](https://www.notion.so/gitcoin/The-Role-of-FDD-37c350abc200487db6fa8ffc9ab98e08)&#x20;
 
 See the original Grant Eligibility Policies here: [https://www.notion.so/gitcoin/Gitcoin-Grants-Policy-Wiki-7ed7f7b201ba44bbb8f31d51c3a2d3d5](https://www.notion.so/gitcoin/Gitcoin-Grants-Policy-Wiki-7ed7f7b201ba44bbb8f31d51c3a2d3d5)&#x20;
 
