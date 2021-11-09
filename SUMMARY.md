@@ -34,9 +34,9 @@
   * [Quadratic Lands 代币分配 web3 支持 —— 委托投票](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
   * [Quadratic Lands 代币分配 web3 支持- 代币认领](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
   * [Quadratic Lands 代币分配 web3 支持 —— 投票签名](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
-  * [What happens to my delegations if I transfer the tokens to someone else?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
-  * [What types of things can the community govern with GTC?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
-  * [Why don’t I have tokens?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
+  * [如果我把代币转让给别人，我的委托会怎么样？](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
+  * [社区可以用 GTC 管理哪些类型的事情？](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
+  * [为什么我没有代币？](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
 
 ## Gitcoin Grants
 

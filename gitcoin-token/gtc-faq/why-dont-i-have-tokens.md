@@ -1,15 +1,11 @@
-# Why don’t I have tokens?
+# 为什么我没有代币？
 
-As part of the Gitcoin token launch on May 25, 2021, GTC was allocated to people who participated in Gitcoin grants, hackathons, bounties, or KERNEL prior to April 1, 2021. If you fit that criteria and did not receive GTC, [please fill out this form](https://forms.gle/btrX6ny4K6YBuJp3A) and a member of the Gitcoin Team look into it for you.
+作为2021年5月25日推出的 Gitcoin 代币的一部分，GTC 被分配给在2021年4月1日之前参与 Gitcoin 捐赠、黑客松、赏金或 KERNEL 的人。如果你符合这个标准，但没有收到 GTC，[请填写这个表格](https://forms.gle/btrX6ny4K6YBuJp3A)，Gitcoin 团队的成员会为你调查。
 
-At the time of token launch \(5/25/2021\), there are three different ways to see/know if you are eligible for the airdrop.
+在代币发行时（2021年5月25日），有三种不同的方式可以看到/知道你是否有资格获得空投。
 
-1. The [Gitcoin.co](https://gitcoin.co/) landing page will show that you have a claim available in the banner.
-2. You will see a message on the [Quadratic Lands Mission](http://gitcoin.co/quadraticlands/mission) page:
-
-> Complete all 3 missions to receive your tokens.
-
-1. The [Quadratic Lands](https://gitcoin.co/quadraticlands) landing page will show a claim total in the navigation bar.
-
-If you think you should be eligible for the airdrop, but are not seeing your claim eligibility please [fill out this form](https://forms.gle/btrX6ny4K6YBuJp3A). 
-
+1. Gitcoin.co的登陆页面将显示一个申领的横幅。
+2. 你会在 [Quadratic Lands](https://gitcoin.co/quadraticlands/mission) 使命的任务页面里看到一条信息。
+   * 完成所有 3 个任务以获得你的代币。
+3. Quadratic Lands 的登陆页面里将在导航栏中显示可认领总额。
+   * 如果你认为你应该有资格获得空投，但没有看到你的申领资格，请填写此表

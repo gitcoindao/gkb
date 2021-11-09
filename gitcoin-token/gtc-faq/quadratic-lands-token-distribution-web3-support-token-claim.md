@@ -1,14 +1,11 @@
-# Quadratic Lands Token Distribution web3 support- Token Claim
+# Quadratic Lands 代币分配 web3 支持- 代币认领
 
- After completing the first two missions \(1-proof of knowledge and 2- proof of use\) eligible users will arrive at the third mission, proof of receive.
+在完成前两个任务（1-知识证明和 2-使用证明）后，符合条件的用户将到达第三个任务，即接收证明。
 
-When you click `claim` in the receive mission, you will be prompted to broadcast a transaction to the Gitcoin Token Distribution contract.
+当你在接收任务中点击`认领`时，你会被提示向 Gitcoin 代币分配合约广播一笔交易。
 
-If you are having issues with your token claim please here are a few things to check/confirm:
+如果您的代币认领有问题，请在这里检查/确认一些事情。
 
-1. your wallet is connected to the Ethereum Mainnet
-2. you don't have any old/stale transactions pending transactions on your account
-3. you have enough Ethereum in your account to cover the gas fees
-
-
-
+1. 您的钱包连接了以太坊主网
+2. 您的账户上没有任何之前的有待处理的交易
+3. 您的以太坊钱包里有足够的 ETH 来支付矿工费

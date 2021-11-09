@@ -1,4 +1,3 @@
-# What happens to my delegations if I transfer the tokens to someone else?
+# 如果我把代币转让给别人，我的委托会怎么样？
 
-The delegation becomes undone and the new token owner would then need to redelegate.
-
+委托将被撤销，新的代币所有者将需要重新委托。

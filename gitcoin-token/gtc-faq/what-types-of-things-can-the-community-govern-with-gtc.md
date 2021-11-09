@@ -1,4 +1,3 @@
-# What types of things can the community govern with GTC?
+# 社区可以用 GTC 管理哪些类型的事情？
 
-At first, governance will be focused on Gitcoin Grants, and governance workstream’s use of the treasury. During Grants Rounds, the community will decide round size and ratification, as well as guidelines around grants in general.
-
+首先，治理将集中在 Gitcoin 捐款，以及治理工作小组对财政的使用。在拨款回合中，社区将决定每轮的大小和批准，以及围绕一般拨款的准则。
