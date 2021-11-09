@@ -88,7 +88,7 @@
 * [行为守则](gitcoin-policy/code-of-conduct.md)
 * [Policy](gitcoin-policy/policy/README.md)
   * [Introduction](gitcoin-policy/policy/introduction/README.md)
-    * [The Gitcoin Mission](gitcoin-policy/policy/introduction/the-gitcoin-mission.md)
+    * [Gitcoin 的使命](gitcoin-policy/policy/introduction/the-gitcoin-mission.md)
     * [What are we protecting ?](gitcoin-policy/policy/introduction/what-are-we-protecting.md)
     * [Why Quadratic Funding Through Gitcoin Grants Matters ?](gitcoin-policy/policy/introduction/why-quadratic-funding-through-gitcoin-grants-matters.md)
     * [Red Team vs Blue Team](gitcoin-policy/policy/introduction/red-team-vs-blue-team.md)

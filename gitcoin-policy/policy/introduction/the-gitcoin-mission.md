@@ -1,3 +1,3 @@
-# The Gitcoin Mission
+# Gitcoin 的使命
 
-Our mission is to empower communities to build and fund digital public goods. We do that by giving builders opportunities to earn in a number of ways, including sponsored hackathons, ongoing bounties, and quarterly Grants rounds. In particular, Grants rounds are among our most significant economic vehicles. And because of the Quadratic Funding mechanism, they offer the community extraordinary involvement in deciding the allocation of public funds.
+我们的使命是赋能社区，建设和资助数字公共产品。我们通过多种方式为建设者提供赚钱的机会，包括赞助的黑客马拉松、持续的赏金和季度的资助轮。特别是，资助轮是我们最重要的经济手段之一。而且，由于 Quadratic Funding 机制的存在，他们在决定公共资金的分配方面有很多参与。
