@@ -55,11 +55,7 @@ description: Web 3.0 的最终目标是创造更加智能、相互连接而又�
 
 {% embed url="https://gov.gitcoin.co/t/the-gitcoin-gitcoindao-egregore-is-emerging/8200" %}
 
-#### DAO’s Quarterly Cadence
-
-Gitcoin operates in a quarterly cadence. Every quarter, the Gitcoin ecosystem revolves around a quarterly stacked event - a combination Gitcoin Grants round, Hackathon, and KERNEL block - where millions of \$$$ of funding are deployed to the community. Typically a quarter looks like this:
-
-DAO的季度节奏&#x20;
+### DAO的季度节奏&#x20;
 
 Gitcoin以季度为单位进行运作。每个季度，Gitcoin 生态系统都围绕着一个季度性的各种活动 -- Gitcoin Grants、黑客马拉松和 KERNEL 的组合 -- 数百万美元的资金会给到社区。一般来说，一个季度是这样的：
 
@@ -83,15 +79,15 @@ Gitcoin以季度为单位进行运作。每个季度，Gitcoin 生态系统都�
 
 ### 如何参与
 
-As of September 2021, here is the way you can get involved in the DAO.
+2021年9月你可以这样参与 DAO：
 
-1. Read the weekly [Week in DAO](https://gov.gitcoin.co/search?q=week%20in%20DAO%20order%3Alatest) posts by [@ceresstation](https://gov.gitcoin.co/u/ceresstation) .
-2. Get engaged on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [twitter](https://twitter.com/gitcoin)
-3. [Apply as a Contributor](https://airtable.com/shrNCh4oIQYx1QJ2y)
-4. Checkout [see available openings on the stream](https://gov.gitcoin.co/06fad27dbd2d49468aa810c92f1f28c2?v=2adef018760d469fa32b9f96a3e54f63).
-5. Explore any workstreams (use links above).
-6. Use Gitcoin to earn, learn, or fund. (use links above).
-7. Explore any of the links below:
+1. 阅读每周由  [@ceresstation](https://gov.gitcoin.co/u/ceresstation) 撰写的 [Week in DAO](https://gov.gitcoin.co/search?q=week%20in%20DAO%20order%3Alatest)&#x20;
+2. 立即加入  [discord](https://gitcoin.co/discord)，[gov.gitcoin.co](https://gov.gitcoin.co)，或关注 [twitter](https://twitter.com/gitcoin)
+3. [Apply as a Contributor](https://airtable.com/shrNCh4oIQYx1QJ2y) [申请成为贡献者](https://airtable.com/shrNCh4oIQYx1QJ2y)
+4. 查看仍在进行的 [stream](https://gov.gitcoin.co/06fad27dbd2d49468aa810c92f1f28c2?v=2adef018760d469fa32b9f96a3e54f63)
+5. 探索更多的workstreams (使用上面的链接)
+6. 使用Gitcoin来赚钱、学习或捐赠(使用上面的链接)
+7. 探索下面更多的链接：
 
 ### 链接
 
@@ -107,22 +103,23 @@ As of September 2021, here is the way you can get involved in the DAO.
 * [GitcoinDAO Twitter](https://twitter.com/gitcoindao)
 * [GitcoinDAO/GTC Governance token](https://etherscan.io/token/0xde30da39c46104798bb5aa3fe8b9e0e1f348163f)
 
-## Testimonials
+## 使用者好评
 
-> Gitcoin Grants is establishing itself as a significant pillar of the Ethereum ecosystem that more and more projects are relying on for some or all of their support. \~ [Vitalik Buterin](https://vitalik.ca/general/2020/04/30/round5.html)
+> Gitcoin Grants 正在成为以太坊生态系统重要支柱性应用，越来越的项目正部分或全部依赖于他们的支持 \~ [Vitalik Buterin](https://vitalik.ca/general/2020/04/30/round5.html)
 
-> I LOVE IT…The community has been outstanding. I have made contact outside of slack w a couple of people. William Schwab was kind enough to ZOOM w me for an hour and tell me his story, letme pick his brain, and as he shared some valuable resources with me. - John Wilkinson
+> 我太喜欢 Gitcoin了，这里的社区超级棒。我在Slack之外和几个人取得了联系，威廉-施瓦布（William Schwab）很友好地与我谈了一个多小时，我想他请教了很多事情，也给我分享了一些宝贵的资源。 - John Wilkinson
 
-> KERNEL is the greatest thing to ever happen to my crypto/business/personal life. I have made plenty of new friends, connected with people who believe in me and want to work together on other projects, and of course learned a lot from other seedlings, mentors and speakers. - Ethan Chiasson
+> KERNEL 是我加密货币、商业、个人生活中遇到最伟大的事情。在这里我结识了很多新朋友并且那些信任我并希望合作的人建立了联系，当然也从其他种子项目、导师和演讲者那里学到了很多。 - Ethan Chiasson
 
-> Gitcoin gave me the first break into Ethereum and the crypto space. It helped me find bounties that I could work on and get paid in crypto. After my first ever bounty I got paid a lot and I felt euphoric. - Sebastian TF
+> Gitcoin 给了我进入以太坊和加密货币领域的第一个机会。它帮助我找到了赏金项目并获得了加密货币报酬。在我完成第一个项目之后，我得到了很多报酬，我感到很高兴。- Sebastian TF
 
-> I am amazed on a daily basis at the incredible projects and communities in this space. The Gitcoin team and quadratic funding is an invaluable catalyst to bring it all to fruition. Thank you! - Hishamaru Konkon
+> 我每天都对这一领域中令人难以置信的项目和社区感到惊讶。Gitcoin 团队和二次方捐赠使这一切得以实现。谢谢你们！- Hishamaru Konkon
 
-> Gitcoin grants quadratic funding is not just for funds allocation, it’s also a great signaling tool! For the last few rounds, going to [Grants | Gitcoin](https://gitcoin.co/grants/) has led me to discover a lot of really cool Ethereum projects I previously did not know about. - Vitalik Buterin
+> Gitcoin grants 的捐赠不仅仅给项目分配资金，同时也是很好的信号。在过去的几轮捐赠里我就从中发现了很多之前我根本不知道的非常酷的项目。 - Vitalik Buterin
 
-> What Gitcoin is doing with public goods funding is absolutely incredible. Nothing but respect to the team and the larger community for the contributions made. - Frobo
+> Gitcoin 用公益资金所做的事情绝对是不可思议的，我们非常尊重团队和社区所做的贡献。 - Frobo
 
-> Thanks to [@gitcoin](https://gov.gitcoin.co/u/gitcoin) it has helped us to discover our earliest talent and supercharged @KodaDot development. - Matej
+> 感谢 Gitcoin 让我们在很早期就找到了优秀员工，及时支持了 @KodaDot 项目的发展。 - Matej
 
-> People ask me all the time how I got into Solidity and NFT dev. The answer is [@gitcoin](https://gov.gitcoin.co/u/gitcoin)! Beginning of the year I just started doing bounties for a bunch of different projects (@synthetix\_io @akashnet\_ @SovrynBTC etc) and found the NFT ones were my fave. Such a good way to learn! - sarasioux.eth
+> 人们经常问我是如何进入 Solidity 和 NFT 开发的，答案就是 Gitcoin！今年年初，我刚开始为接了一些赏金项目（@synthetix\_io @akashnet\_ @SovrynBTC 等），发现 NFT 项目是我的最爱，同时这也是一个很好的学习方法。- sarasioux.ethsarasioux.eth
+
