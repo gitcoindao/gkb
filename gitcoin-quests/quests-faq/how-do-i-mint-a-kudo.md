@@ -1,16 +1,15 @@
-# How do I mint a kudo?
+# 我如何铸造一个感谢卡？
 
-Our github repo has great info for those who are technically minded at:
+我们的 github repo 为那些这里有技术头脑的人提供了很好的信息
 
-{% embed url="https://github.com/gitcoinco/kudosbadges/blob/master/README.md\#to-create-a-new-kudos" %}
+{% embed url="https://github.com/gitcoinco/kudosbadges/blob/master/README.md#to-create-a-new-kudos" %}
 
-**Here is the process guide to get started:**
+**以下是入门过程指南：**
 
-To mint a kudo, go to:
+要铸造感谢卡，请访问
 
 {% embed url="https://gitcoin.co/kudos/new" %}
 
-`Contact Email Address` = Your email
+`Contact Email Address` = 您的电子邮件
 
-`Artwork (SVG)` =  yes, it must be an SVG that follows the Kudos Design Guide & SVG Template
-
+`Artwork (SVG)` = 是的，它必须是遵循 Kudos 设计指南和 SVG 模板的 SVG

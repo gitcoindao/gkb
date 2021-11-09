@@ -1,6 +1,7 @@
-# How do I submit work?
+# 如何提交工作？
 
-When you have a project in mind, click **“Start work**” in the top left, and fill in the details to officially enter! Submissions at the end will be done via the same button, which will say **“Submit work”.**
+当您想到一个项目时，点击左上方的"**开始工作**"，并填写细节，就可以正式参赛了！
 
-![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin_kb_attachments/2021/07-01/d33a43c4-dac3-497d-925c-fdc0e3138d9f/Screen_Shot_2021-06-28_at_2.55.40_PM.png)
+最后的提交将通过同一个按钮完成，上面会写着"**提交作品**"。
 
+![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/07-01/d33a43c4-dac3-497d-925c-fdc0e3138d9f/Screen\_Shot\_2021-06-28\_at\_2.55.40\_PM.png)

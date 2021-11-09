@@ -75,8 +75,8 @@
 
 * [什么是 Gitcoin Quests 和 Kudos？](gitcoin-quests/what-are-gitcoin-quests-and-kudos.md)
 * [Quests 常见问题](gitcoin-quests/quests-faq/README.md)
-  * [如何 mint 一个 kudos？](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
-  * [如何使用 Kudos?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
+  * [我如何铸造一个感谢卡？](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
+  * [如何使用感谢卡?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
   * [为什么不能访问我的账户？](gitcoin-quests/quests-faq/why-cant-i-access-my-account.md)
 
 ## External links
