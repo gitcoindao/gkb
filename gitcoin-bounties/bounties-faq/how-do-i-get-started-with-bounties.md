@@ -1,110 +1,99 @@
-# How do I get started with Bounties
+# 如何开启赏金？
 
-**Accessing Bounties**  
-------------------
+## **获取赏金**
 
-From the navigation bar, choose "Products" and then "Bounties".
+从导航栏中，选择"产品"，然后选择"赏金"。
 
-  
-**Bounties Work Flow**  
-------------------
+## **赏金工作流**
 
-Bounties can be used in two different ways:
+赏金可以被用作以下：
 
-- I am a developer looking to contribute to a project. \(Contributor\)  
-- I am an OSS project looking for talent. \(Funder\)
+* 我是一名开发人员，希望为一个项目做出贡献。(贡献者)
+* 我是一个正在寻找人才的开源软件项目。(出资者)
 
-**Bounty Specifications**  
-------------------
+## 赏金规格
 
-\*\*Time left:\*\* Amount of time to complete the bounty.    
-\*\*Project Type:\*\*
+**剩余时间：完成赏金的时间。**
 
-- Contest: Multiple submissions wanted, the top tier will receive a prize.  
-- Cooperative: Multiple contributors will make multiple submissions and funding will be split.  
-- Traditional:  One applicant will be selected to complete the work requested, one submission, one payout.
+**项目类型：**
 
-\*\*Permissions:\*\*
+* 竞赛。希望有多人提交，最高级别的人将获得奖励。
+* 合作型。多个贡献者将进行多次提交，资金将被分割。
+* 传统型。 将选择一个申请人完成所要求的工作，一次提交，一次支付。
 
-- Permissionless:  Anyone can work on the bounty after expressing interest.  
-- Approval Required:  Contributors are to express interest and await approval to work.
+**是否需要许可：**
 
-\*\*Opened:\*\* How long ago the bounty was created.
+* 无许可。 任何人都可以在表示感兴趣后从事悬赏工作。
+* 需要批准。 贡献者要表达兴趣并等待批准才能工作。
 
-\*\*Time Commitment:\*\* Length of time the completion of the bounty is expected to take.
+时间承诺：预计完成赏金所需的时间长度。
 
-\*\*Issue Type:\*\* Functional aspect of the project that the bounty applies to.  \(i.e. Security, Documentation, etc.\)
+**问题类型： 赏金适用于项目的功能方面。 (例如，安全、文档等）。**
 
-\*\*Experience Level:\*\*
 
-- Beginner:  Little to no pre-requisite skills are needed to complete the bounty.  
-- Intermediate:  Some pre-requisite skills are needed to complete the bounty.  
-- Advanced:  Specialized knowledge or subject mastery may be required to complete the bounty.
 
-\*\*Description:\*\*  A detailed explanation of the work requested from the funder.
+经验水平：
 
-**Contributor Work Flow**  
-------------------
+* 初学者。 完成悬赏任务几乎不需要任何先决条件的技能。
+* 中级。 需要一些先决条件的技能来完成悬赏任务。
+* 高级。 完成悬赏任务可能需要专业知识或学科知识。&#x20;
 
--  Choose "Explore Bounties" from the Bounties menu.  
--  Optional: Set search criteria on the left side of the screen \(default is mainnet / open issues\).  
--  Select a bounty of interest.  
--  Examine the bounty specifications to ensure a good fit for your skill level.  
--  Make sure you have a complete understanding of the bounty instructions via the description.  
--  Click on the "Github" link to further explore the project and issue in the respective repository.  
--  Click on "Express Interest" and give a descriptive summary of how you plan to work on the issue.  
--  For permissionless bounties you can begin work, for approval required bounties you must wait to be notified that you are approved to work on the bounty.  You will get a platform notification and an email.  
--  When work is completed, submit the work by a pull request on the bounty Github repository.  Copy the URL for the pull request.  
--  Return to the Github bounty page and select "Submit Work".  
--  Paste the pull request URL into the PR field, accept the terms, and submit the bounty.  
--  Your web3 wallet will open requesting you to approve the gas cost in Eth, approve this request.  This records the project completion on the blockchain.  NOTE:  New users can visit the Eth faucet for a one-time small amount of Eth to be granted for gas costs.  
--  The funder may provide feedback in the Github repository for some changes to be made prior to acceptance, check back to the pull request frequently.  
--  Payout is made once the bounty is satisfied.  Allow one to two weeks for a funder response.  
--  If you are unable to complete a bounty for any reason, return to the bounty page and click "Stop Work".
+**描述：对要求资助者提供的工作的详细解释。**
 
-**Contributor Tips**  
-------------------
+## **贡献者工作流**
 
-_**DO:**_
+* 从赏金菜单中选择 "探索赏金"。
+* 可选的：在屏幕左侧设置搜索标准（默认为主网/ open issue）。&#x20;
+* 选择一个感兴趣的赏金。&#x20;
+* 检查赏金的规格，确保适合您的技能水平。&#x20;
+* 确保您通过描述完全理解赏金说明。
+* 点击 "Github" 链接，进一步了解该项目和相关资源库中的问题。
+* 点击 "表达兴趣"，并描述您计划如何处理该问题。
+* 对于无准许的赏金，您可以立即开始工作，对于需要批准的赏金，您必须等待被批准进行赏金工作的通知。你会收到一个平台通知和一封电子邮件。&#x20;
+* 当工作完成后，在悬赏的 Github 仓库中以 pull request 的方式提交工作。复制 pull request 的 URL。&#x20;
+* 回到 Github 赏金页面，选择"提交工作"。 将 pull request 的 URL 粘贴到 PR 字段中，接受条款，并提交赏金。&#x20;
+* 你的 web3 钱包将打开，这需要你有矿工费，然后 approve request。注意：新用户可以访问 Eth 水龙头，获得一次性的少量 Eth，获得矿工费。&#x20;
+* 出资人可能会在 Github 仓库中提供反馈，以便在接受之前进行一些修改，请经常检查 pull request。
+* &#x20;一旦赏金得到满足，就进行支付。请允许一到两周的时间来获得资助者的回应。&#x20;
+* 如果您因任何原因无法完成赏金，请返回赏金页面并点击"停止工作"。
 
-- Choose bounties appropriate to your skill level.  
-- Understand the bounty requirements on the bounty page and Github issue page.  
-- Give a descriptive plan for bounty completion to maximize your chances of being selected in traditional bounties.  
-- Give status updates to the funder as appropriate \(delays, questions, suggestions, etc.\)  
-- Create appropriate documentation for the funder and other contributors to be able to follow your work.
+## 贡献者小提示
 
-_**DO NOT:**_ 
+_**建议您做：**_
 
-- Abandon a bounty.  "Stop Work" on the bounty if you are unable to complete it.  
-- Be offended if denied to work on a bounty by a funder.
+* 选择适合您技能水平的赏金。&#x20;
+* 了解赏金页面和 Github 问题页面上的赏金要求。&#x20;
+* 给出一个描述性的赏金完成计划，以最大限度地提高你在传统赏金中被选中的机会。
+* 适当地给出资人提供状态更新（延迟、问题、建议等）。 为出资人和其他贡献者创建适当的文档，以便能够跟踪你的工作。
 
-**Funder Work Flow**  
-------------------
+_**请不要做：**_
 
-- From the Bounties menu choose "Fund Issue".  
-- Set the bounty specifications according to the work needed.  
-- Include the issue URL from the Github repository.  
-- Give a clear description of the requirements for work to be accepted.   
-- Click "Fund Issue".  
-- Approve the transaction in your web3 wallet \(i.e. Metamask\).  
-- Approve or deny applicants that express interest \(if applicable\).  
-- Review work submitted in the pull request and provide feedback or accept the work \(if applicable\).  
-- Payout the bounty or announce contest winners.
+* 放弃一项赏金。如果你无法完成赏金，就"停止工作"。
+* 被出资人拒绝，就觉得被冒犯。
 
-**Funder Tips**  
-------------------
+## 出资人工作流
 
-_**DO:**_ 
+* 从赏金菜单中选择 "资助问题"。&#x20;
+* 根据需要的工作设置赏金规格。 包括 Github 仓库中的问题 URL。&#x20;
+* 对要接受的工作的要求作出明确的描述。&#x20;
+* 点击 "资助问题"。
+* 批准您的 web3 钱包（即 Metamask）中的交易。
+* 批准或拒绝表达兴趣的申请人（如果适用）。&#x20;
+* 检查 pull request 中提交的工作，并提供反馈或接受该工作（如果适用）。&#x20;
+* 支付赏金或宣布比赛获胜者
 
-- Price correctly.  
-- Be specific about acceptance criteria.  
-- Start small.  
-- Provide adequate documentation.  
-- Be responsive to the contributor.
+## 资助者小提示
 
-_**DO NOT:**_ 
+_**建议您做：**_
 
-- Create bounties for architecture \(building from the ground up\).  
-- Create bounties that require market awareness \(unless well documented\).  
-- Create security-sensitive bounties \(private keys etc.\).
+* 正确定价。&#x20;
+* 具体说明验收标准。
+* 从小事做起。
+* 提供充分的文件。
+* 对贡献者作出反应。
 
+_**请不要做：**_
+
+* 创建架构的赏金（从基础开始建设）。&#x20;
+* 创建需要市场意识的赏金（除非有很好的记录）。
+* 创建对安全敏感的赏金（私钥等）。

@@ -68,7 +68,7 @@
 
 * [How bounties work ?](gitcoin-bounties/how-bounties-work.md)
 * [Bounties 常见问题](gitcoin-bounties/bounties-faq/README.md)
-  * [如何开启 Bounties？](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
+  * [如何开启赏金？](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [如何提交工作？](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
 ## Gitcoin Quests
