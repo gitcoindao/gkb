@@ -85,9 +85,6 @@
 
 ## Gitcoin Policy
 
-* [Appeals](gitcoin-policy/appeals/README.md)
-  * [Introduction to Appeals](gitcoin-policy/appeals/introduction-to-appeals.md)
-  * [Introduction to Appeals for Denied Grants.](gitcoin-policy/appeals/introduction-to-appeals-for-denied-grants..md)
 * [Code of Conduct](gitcoin-policy/code-of-conduct.md)
 * [Policy](gitcoin-policy/policy/README.md)
   * [Introduction](gitcoin-policy/policy/introduction/README.md)
@@ -141,4 +138,6 @@
     * [Human Review](gitcoin-policy/policy/active-defense-measures/human-review.md)
   * [The Fraud Tax](gitcoin-policy/policy/the-fraud-tax.md)
   * [Community Oversight](gitcoin-policy/policy/community-oversight.md)
-* [Dao User Policy](gitcoin-policy/dao-user-policy.md)
+  * [Appeals](gitcoin-policy/policy/appeals/README.md)
+    * [Introduction to Appeals](gitcoin-policy/policy/appeals/introduction-to-appeals.md)
+    * [Introduction to Appeals for Denied Grants.](gitcoin-policy/policy/appeals/introduction-to-appeals-for-denied-grants..md)

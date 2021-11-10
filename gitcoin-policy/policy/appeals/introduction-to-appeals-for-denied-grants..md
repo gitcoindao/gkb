@@ -8,7 +8,7 @@ Gitcoin ensures each grant application gets a written-review by multiple members
 
 See the original Grant Eligibility Policies here: [https://www.notion.so/gitcoin/Gitcoin-Grants-Policy-Wiki-7ed7f7b201ba44bbb8f31d51c3a2d3d5](https://www.notion.so/gitcoin/Gitcoin-Grants-Policy-Wiki-7ed7f7b201ba44bbb8f31d51c3a2d3d5)&#x20;
 
-See the modernized and reformatted (but technically the same policy) Grant Eligibility Policies here:  [https://app.gitbook.com/o/-MfiuY33tsDX7Su0127P/s/-MjC3EDw-19kGT6rqCuU-887967055/gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow](../../gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow.md)
+See the modernized and reformatted (but technically the same policy) Grant Eligibility Policies here:  [https://app.gitbook.com/o/-MfiuY33tsDX7Su0127P/s/-MjC3EDw-19kGT6rqCuU-887967055/gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow](../../../gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow.md)
 
 Compliant grants get recommended for inclusion in various levels of Gitcoin grant funding. Non-compliant grants get recommended for exclusion from various levels of Gitcoin grant funding. The Grant Approval Committee then considers each grant on its merits, while also noting the recommendations of the reviewers, and makes the decision to include or exclude a grant.
 
