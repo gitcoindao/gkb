@@ -143,3 +143,4 @@
     * [Introduction to Appeals for Denied Grants.](gitcoin-policy/policy/appeals/introduction-to-appeals-for-denied-grants..md)
     * [GitcoinDAO Appeal Group](gitcoin-policy/policy/appeals/gitcoindao-appeal-group.md)
     * [Appeal Process - Stage 1](gitcoin-policy/policy/appeals/appeal-process-stage-1.md)
+    * [Page 1](gitcoin-policy/policy/appeals/page-1.md)
