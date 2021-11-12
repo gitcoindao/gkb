@@ -1,8 +1,8 @@
 ---
-description: The basic steps required in a second stage appeal.
+description: '*WORK IN PROGRESS* The basic steps required in a second stage appeal.'
 ---
 
-# Page 1
+# Appeal Process - Stage 2
 
 \*\*\* WORK IN PROGRESS \*\*\*
 
