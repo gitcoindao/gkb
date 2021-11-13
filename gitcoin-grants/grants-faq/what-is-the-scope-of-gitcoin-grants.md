@@ -1,14 +1,11 @@
-# What is the scope of Gitcoin Grants?
+# Gitcoin Grants涵盖哪些范围?
 
-Gitcoin Grants is focused on public goods.
+Gitcoin Grants聚焦公共产品.
 
-- Open Source Software  
-- Journalism  
-- Public Health
+* 开源软件
+* 新闻工作
+* 公共卫生
 
-Those are all examples of public goods. To learn more about public goods checkout:
+这些都是公共产品的范例。更多关于公共产品的信息，请参见：
 
-{% embed url="https://en.wikipedia.org/wiki/Public\_good\_\(economics\)" %}
-
-
-
+{% embed url="https://en.wikipedia.org/wiki/Public:good:(economics)" %}
