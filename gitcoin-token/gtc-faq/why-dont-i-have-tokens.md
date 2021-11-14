@@ -4,7 +4,7 @@
 
 在代币发行时（2021年5月25日），有三种不同的方式可以看到/知道你是否有资格获得空投。
 
-1. Gitcoin.co的登陆页面将显示一个申领的横幅。
+1. Gitcoin.co 的登陆页面将显示一个申领的横幅。
 2. 你会在 [Quadratic Lands](https://gitcoin.co/quadraticlands/mission) 使命的任务页面里看到一条信息。
    * 完成所有 3 个任务以获得你的代币。
 3. Quadratic Lands 的登陆页面里将在导航栏中显示可认领总额。
