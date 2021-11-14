@@ -1,6 +1,6 @@
-# Gitcoin Grants涵盖哪些范围?
+# Gitcoin Grants 涵盖哪些范围?
 
-Gitcoin Grants聚焦公共产品.
+Gitcoin Grants 聚焦公共产品.
 
 * 开源软件
 * 新闻工作
