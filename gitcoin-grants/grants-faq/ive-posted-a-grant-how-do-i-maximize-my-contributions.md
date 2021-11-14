@@ -1,4 +1,3 @@
-# I've posted a grant, how do I maximize my contributions?
+# 我发布了一个 grant，如何才可以最大化我的贡献？
 
-**Try to get contributions from the broadest possible audience. In the past, grants that have had 100s of contributors in one round have generated over $10k in funding.**
-
+尽量从最广泛的受众中获得捐款。在过去，一轮中有 100 多个贡献者，产生了超过 1 万美元的资助。

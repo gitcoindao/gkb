@@ -1,12 +1,11 @@
-# I'm a programmer who wants to build on Gitcoin Grants, where do I start?
+# 如果我是一个程序员，并且想要创建 Gitcoin grant，我从哪儿开始？
 
-**You can use this public endpoint which is a read-only list of all Grant Names & Ethereum Addresses:**
+您可以使用这个公共端点，它是所有 Grant 名称和以太坊地址的只读列表**：**
 
 [**https://gitcoin.co/grants/grants.json**](https://gitcoin.co/grants/grants.json)
 
-**Also check out these docs on the smart contract architecture of Gitcoin Grants:** [**https://github.com/gitcoinco/web/blob/master/docs/GRANTS.md**](https://github.com/gitcoinco/web/blob/master/docs/GRANTS.md)
+还可以看看这些关于 Gitcoin Grants 智能合约架构的文档： [**https://github.com/gitcoinco/web/blob/master/docs/GRANTS.md**](https://github.com/gitcoinco/web/blob/master/docs/GRANTS.md)
 
-**and the Gitcoin Grants API:**
+以及 Gitcoin Grants API：
 
 [**https://github.com/gitcoinco/web/blob/master/docs/API.md**](https://github.com/gitcoinco/web/blob/master/docs/API.md)
-

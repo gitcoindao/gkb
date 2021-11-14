@@ -1,4 +1,3 @@
-# I see a grant that I don't like, what do I do?
+# 看到我不喜欢的 grant，我该怎么办？
 
-**You can use the Grant Flag feature to report the grant to the community.**
-
+您**可以使用 Grant Flag 的功能来向社区举报。**
