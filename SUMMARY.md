@@ -43,7 +43,7 @@
 * [什么是 Gitcoin Grants？](gitcoin-grants/what-is-a-grant.md)
 * [捐款常见问题](gitcoin-grants/grants-faq/README.md)
   * [Gitcoin Grants涵盖哪些范围?](gitcoin-grants/grants-faq/what-is-the-scope-of-gitcoin-grants.md)
-  * [Are there any grant rules I need to follow?](gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow.md)
+  * [Grant有哪些需要遵循的守则?](gitcoin-grants/grants-faq/are-there-any-grant-rules-i-need-to-follow.md)
   * [How do you prevent Sybil attacks?](gitcoin-grants/grants-faq/how-do-you-prevent-sybil-attacks.md)
   * [I'm a programmer who wants to build on Gitcoin Grants, where do I start?](gitcoin-grants/grants-faq/im-a-programmer-who-wants-to-build-on-gitcoin-grants-where-do-i-start.md)
   * [I see a grant that I don't like, what do I do?](gitcoin-grants/grants-faq/i-see-a-grant-that-i-dont-like-what-do-i-do.md)
