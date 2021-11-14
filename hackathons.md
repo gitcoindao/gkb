@@ -34,67 +34,68 @@
 
 ### **第一步：创建 Github 账户并登录 Gitcoin**
 
-In order to sign up on Gitcoin, you must have an active Github account. Gitcoin uses Github profiles to authenticate login credentials. By using Github as an authentication provider, there’s no need to manage multiple usernames and passwords. You’ll simply login with your Github account. You’ll also need to create a repository in Github where you’ll store your code for later review.
+你需要一个 Github 账户才能登录 Gitcoin， Gitcoin 使用了 Github 的用户授权信息。通过找各种登录方式你无需管理多个账户名和密码，只需要一个授权即可。另外，你需要在 Github 上创建一个仓库来存储代码，以方便后续审核。\
+
 
 ![Sign in with github](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/07-23/332379d4-daec-4f32-94f9-5d2c0155fed7/Frame\_15175.png)
 
-[Here’s a quick video guide](https://www.youtube.com/watch?v=yT-aqtigFoc) that goes through setting up your Github account, creating a repository, and uploading work.
+&#x20;[这里有一个视频](https://www.youtube.com/watch?v=yT-aqtigFoc)，帮助你了解如何设置 Github 账户、创建仓库、上传工作。
 
 ### **第二步：浏览开放的黑客松**
 
 ![Explore open Hackathons](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/07-23/5634fbe5-07f4-4e1c-b63c-b223ba6235ae/Frame\_15176.png)
 
-Navigate to the [Gitcoin Hackathon list here](https://gitcoin.co/hackathon-list/). Select a hack event you’re interested in learning more about to view their list of prizes and view their onboarding guide under the “Guide” tab. Once you’re ready to get started, select “Join” from the Hackathon List page. This will allow you to start working on the project’s open bounties.
+浏览 [Gitcoin 黑客松列表](https://gitcoin.co/hackathon-list/)查看你感兴趣的项目，了解他们设置的奖项并且在 “指南” 标签下查看工作指导。如果你准备开始工作，只需在黑客松列表页面点击 “加入”就可以开始你的赏金之旅了。
 
 ### **第三步：搜索开放的赏金**
 
-Navigate to the Hackathon sponsor’s bounty list to view their open bounties. Select a bounty to read its description, prize amount, and submission criteria.
+浏览黑客松赞助赏金列表来查看正在进行的项目，选择一个赏金阅读项目说明、奖金总额以及提交标准。
 
 ![Search open Bounties](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/07-23/a1e0c918-3fb5-4b5d-99a1-1497d8e77054/Frame\_15177.png)
 
 ### **第四步：开始工作**
 
-Once you’ve found a bounty you’re interested in, select “Start Work”. Fill out the short form and choose “Submit”. The form will require your project name, summary of your goals, your Github repository, and the names of your team members (including your own). If your project requires approval, keep an eye out for a confirmation via email. Otherwise, get started! If at any point you can no longer continue, select “Stop Work” on the Bounty page.
+一旦你找到你感兴趣的赏金，选择 "开始工作"。填写一个简短的表格并点击 “提交"，表格将需要填写你的项目名称、目标摘要、Github仓库和团队成员的名字（包括你自己）。如果你的项目是需要审批的，请留意邮件收到的确认信息。如果不需要审批，就立即开始干吧！在任何时候你不能再继续工作了，请在赏金页面选择 “停止工作"。
 
 ### **第五步：加入社区**
 
-Through Gitcoin you can find a vibrant builder community, and we encourage you to make connections and team up on challenges with your peers. But you always have the option of working solo. Either way, Hackathon sponsors typically host workshops and livestream events for participants.
+在 Gitcoin 你会发现这是一个充满活力的建设者社区，我们鼓励你和其他开发者建立联系并合作进行挑战黑客松，当然你也可以选择独自工作。无论是哪种方式黑客马拉松赞助商通常都会为参与者举办研讨会和直播活动。
 
-This is a great opportunity to get to know the project better, as well as meet new people in the community. Also, please make sure you follow their socials to keep up on any announcements, and join their communities in discord or Telegram. Often Hackathon support can be found through one of the sponsor’s community channels.
+这是一个深入了解项目、认识社区新朋友的好机会。此外，请确保关注并加入他们的社区比如 Discord 或 Telegram 以了解项目动态公告。通常情况下，你可以通过黑客马拉松赞助商的一个社区频道得到开发帮助。
 
 ### **第六步：提交工作**
 
 ![Submit work](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/07-23/59ff06bb-2d85-43d0-a4b6-9f94d8c01031/Frame\_15178.png)
 
-You’ll notice on the Bounties page, the “Start Work” button has been replaced with a “Submit Work” button. Select it and fill out the short form including your project link to your Github repository. Add your video demo link if applicable. Add your payout wallet address and your approximate hours worked. Rate the bounty, and make sure both terms and conditions boxes are checked. Once completed, select “Submit Work”. **Please do not choose “Stop Work”** unless you are planning to move on from the bounty without submitting.
+你会注意到在赏金页面"开始工作 "按钮变成 "提交工作 “。点击它并填写简短的表格包括你的 Github 资源库链接，视频演示链接（如果有），付款的钱包地址和工作估算时间。给赏金评分，并确保两个条款和条件框都被选中。完成后，选择 "提交工作"。**请不要选择 “停止工作"**，除非您打算放弃赏金。
 
 ### **第七步：创建 Metamask 钱包用于收款**
 
-While waiting on feedback, go ahead and setup your online Metamask wallet. Metamask is a browser extension and wallet that enables your browser to interact with web3 apps. Learn about [Metamask here](https://www.youtube.com/watch?v=6Gf\_kRE4MJU). Go [here to setup](https://metamask.io) Metamask.
+在等候反馈的时候你可以先创建 Metamask 钱包，这是一个浏览器插件钱包可以让你很方便与 Web3 网页进行交互。在这里了解[更多关于 Metamask 的内容](https://www.youtube.com/watch?v=6Gf\_kRE4MJU)，然后去这里[开始设置](https://metamask.io)。
 
-Once installed, connect Metamask to Gitcoin.
+当钱包安装好了之后，请连接到 Gitcoin。
 
 ![Connect Metamask](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/07-23/1a631e60-3db7-439c-bbfa-b339871b00d1/Frame\_15179.png)
 
 ### **第八步：审核与付款**
 
-Your submitted work will be reviewed by the Hackathon sponsor. If asked, you may need to revise your work, which could take several rounds. Once your work is approved you’ll get paid directly into your online wallet. Hurrah! The review process can take up to a couple weeks, but make sure to check the bounty details for the review time frame.
+您提交的作品将由黑客马拉松赞助商负责审核。如果有必要，你可能需要来修改作品，通常要花费点时间。一旦你的作品被批准，你就会直接在钱包中收到报酬。好哇! 审核过程可能需要几周时间，请确保查看赏金关于审核时间的细节说明。
 
-Then you’ll be asked to rate your Hackathon experience. Please do! Your feedback helps the Gitcoin Team and Hackathon sponsor improve while building reputation on your Gitcoin profile.
+最后，你会被要求对你的黑客马拉松经历进行评价，请按要求参与。你的反馈有助于 Gitcoin 团队和黑客马拉松赞助商改进工作，同时为你的 Gitcoin 档案上增加声誉。
 
 ## 项目类型
 
 ### 协作类项目
 
-**Who**: Teams or teamed-up individuals where multiple contributors with different skill sets are needed.
+对象：在需要不同技能组合的多个贡献者的情况下，团队或联手合作个人。
 
-**What**: Bounty funders looking to complete more complicated projects will set up a Cooperative Project. Expect guidance on how the project can be broken up to allow contributors with varying skill sets to onboard.
+说明: 希望完成更复杂项目的赏金赞助者倾向于建立一个合作类型项目。赞助者会给出分解项目指导，以使具有不同技能的贡献者能够更好协作。
 
 ### 竞争类项目&#x20;
 
-**谁：**多个参与者但只有一个获得报酬
+**对象：**多个参与者但只有一个获得报酬
 
-**什么**: 竞争类项目是发起人想寻找多人给与解决方案，比如寻找 bug。发起者有权利决定赏金给与一个人或多个人，在开始工作前请仔细阅读项目说明。
+**说明： **竞争类项目是发起人想寻找多人给与解决方案，比如寻找 bug。发起者有权利决定赏金给与一个人或多个人，在开始工作前请仔细阅读项目说明。
 
 ### 取消及过期赏金&#x20;
 
