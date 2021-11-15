@@ -4,10 +4,6 @@ description: Everything related to Gitcoin Grant Appeals.
 
 # Appeals
 
-Appeal Process
-
-Celeste
-
-Aragon Court
-
-Kleros
+{% content-ref url="introduction-to-appeals.md" %}
+[introduction-to-appeals.md](introduction-to-appeals.md)
+{% endcontent-ref %}
