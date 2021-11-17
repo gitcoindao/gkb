@@ -1,6 +1,6 @@
 # 我如何铸造一个感谢卡？
 
-我们的 github repo 为那些这里有技术头脑的人提供了很好的信息
+我们的 GitHub repo 为那些这里有技术头脑的人提供了很好的信息：
 
 {% embed url="https://github.com/gitcoinco/kudosbadges/blob/master/README.md#to-create-a-new-kudos" %}
 

@@ -4,7 +4,7 @@
 
 kudos 是一种表示全新的赞赏和建立人际关系的方式，你可以把它看作是一种感谢的象征，或者是一个证明你工作出色的贴纸。此外，这也是一种展示会员可能拥有的特殊技能的方式，如 Pythonista 或设计之星。你可以在Kudos 市场上购买和出售 Kudos 代币。
 
-更多的感谢卡信息可以在 [YouTube](https://youtu.be/EOlMTOzmKKk) 上找到
+更多的感谢卡信息可以在 [YouTube](https://youtu.be/EOlMTOzmKKk) 上找到。
 
 **铸造 kudos**
 
