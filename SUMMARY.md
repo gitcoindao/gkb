@@ -9,7 +9,7 @@
 ## Gitcoin DAO
 
 * [什么是 DAO ?](gitcoin-dao/what-is-a-dao.md)
-* [DAO FAQ](gitcoin-dao/dao-faq/README.md)
+* [DAO 常见问题](gitcoin-dao/dao-faq/README.md)
   * [什么是 GitcoinDAO？](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [什么是 Quadratic Lands？](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
   * [什么是治理工作小组？](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
