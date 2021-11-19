@@ -15,6 +15,6 @@ Gitcoin 有许多产品和功能，为了正常工作，需要用户以诚实和
 
 这并不是一个详尽的清单，只是最常见的原因。Gitcoin 团队负责为用户创造一个安全的环境，让他们为开放的互联网工作，为公共产品提供资金。我们的决定是为了整个生态系统的更好发展。通过对Gitcoin的去中心化，我们将通过一个透明的、政治上去中心化的上诉程序将账户调解的权力交还给社区。请对我们的团队保持耐心，因为社区正在研究如何进行这一过程。
 
-在我们的 [Youtube 播放列表](https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698\_lHvma)中了解更多关于 quadratic funding 和女巫攻击的信息
+在我们的 [Youtube 播放列表](https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698\_lHvma) 中了解更多关于 quadratic funding 和女巫攻击的信息
 
 {% embed url="https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698:lHvma" %}
