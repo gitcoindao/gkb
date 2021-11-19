@@ -1,8 +1,5 @@
-# I see a bug or I've got a question, what do I do?
+# 我发现了一个 Bug 或者有问题该怎么办？
 
-**Open up a Github issue at:**
+**在这里新建一个 Github issue：**
 
 {% embed url="https://github.com/gitcoinco/web/issues/new/choose" %}
-
-
-

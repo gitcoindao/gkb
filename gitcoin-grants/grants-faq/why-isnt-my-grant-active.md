@@ -1,111 +1,110 @@
-# Why isn't my grant active?
+# 为什么我的 Grant 没有生效？
 
-Any user can [create a new grant](https://gitcoin.co/grants/new). This grant is visible on the platform via a direct link, but not visible when exploring or searching, and also not active in the matching pools. It needs to be approved first. 
+每个人都可以[创建新的 Grant](https://gitcoin.co/grants/new)。这些新建的 Grant 可以通过链接直接访问，但在审核通过之前是不能被搜索到的，同时也不会被放入到二次方募资匹配池里。
 
-The [Anti-Fraud & Collusion workstream](https://gov.gitcoin.co/t/workstream-fraud-detection-and-defense-working-group-assemble/158/11) of GitcoinDAO has a sub-stream called Grant Verifications. The community members & stewards review each grant, then approve or deny it based on the policy outlined below. 
+GitcoinDAO 的“[反欺诈和串通](https://gov.gitcoin.co/t/workstream-fraud-detection-and-defense-working-group-assemble/158/11)”工作流有一个子流，叫做 "拨款核查"。社区成员和管理人会审查每一个拨款，然后根据下面列出的政策批准或拒绝它。
 
-A list of all the grants, their approval stage, and comments from reviewers can be found here: [Public Grant Approval Oversight](https://www.notion.so/gitcoin/Public-Grant-Approval-Oversight-Page-af7e9caa25b5478b901df5ac78349c4b)
+所有赠款的清单，其批准阶段、审查者的评论都可在此找到 ：[公共拨款审批监督](https://www.notion.so/gitcoin/Public-Grant-Approval-Oversight-Page-af7e9caa25b5478b901df5ac78349c4b)
 
-**Below you can find information on:**
+**你可以通过以下内容查看更多：**
 
-* Process of approval - How grants are reviewed
-* Levels of approval - Inclusion and exclusion in matching pools
-* Participation Policy - What is allowed
-* Recourse for denied grants - How to 
+* 审核流程 - Grants 是如何被审核的
+* 审核等级 - 纳入和排除在匹配池
+* 参与政策 - 哪些是被允许的
+* 被拒绝的 Grants 申诉 - 如何操作
 
-**Process of approval**
+**审核流程**
 
-New grants are put into an approval que which usually takes 1-2 days for a response. The reviewers look at the grant and whether it fits within the current policy & norms of the community.
+新的 Grants 会被放入到审核队列，一般您会在 1\~2 天内收到反馈。审核会先看项目是否符合当前社区的政策和规范。
 
-![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin_kb_attachments/2021/06-30/75d4d00d-7ffd-4a75-be11-49b5b609cacf/Twitter_post_-_2_1.png)
+![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/06-30/75d4d00d-7ffd-4a75-be11-49b5b609cacf/Twitter\_post\_-\_2\_1.png)
 
-This is how this process most commonly transpires:
+以下是常见的工作流程：
 
-1. Grant is put in que
-2. Reviewers comment on legitimacy
-3. Grant Verification sub-stream lead makes a decision
-4. Reviewers confirm and document decision
-5. The community can review the decision
-   1. The community can flag a grant they feel is going against current policy or norms
-   2. The grant owner can appeal the decision
+1. 新 Grants 放入队列
+2. 审核人员对合规性进行评论
+3. 分流审查小组长做出决策
+4. 审核员确认并对决定形成文档
+5. 社区可以重复审查决定
+   1. 社区可以举报他们认为有违社区原则和规范的 Grants
+   2. Grants 所有者可以对该决定提出上诉
 
-The policy is set at the highest level through our stewards in a process similar to the way English common law works. 
+该政策是通过我们的管家在最高级别标准制定的，其过程类似于英国普通法的运作方式。
 
-The judge makes a determination based on the current policy. Some of these decisions lie in "gray" areas. The novel decisions need to be made quickly. Therefore, the judgement creates a new precedent for novel situations. 
+法官根据现行政策作出决定，其中一些决定处于 "灰色"区域。新的决策需要迅速做出，因此该判决为新情况创造了一个新的先例。
 
-Each round the stewards then ratify the decisions made. This act following the round "Governance Brief" signals the community's agreement with the decisions made. 
+每一轮的管理人都会批准所做的决定。每一轮"治理简报"之后的行为表明社区对所做决定的认可。
 
-For each new policy precedent, the Anti-Fraud & Collusion workstream will define parameters and present the updated policy for ratification prior to the next round of matching. 
+对于每个新的政策先例，反欺诈和串通工作流将设定好参数，并在下一轮匹配之前提出更新的对策供批准。
 
-**Levels of approval**
+**审核等级**
 
-Approval & denial happens at multiple levels. Each has their own sets of rules for what can and can't participate in matching. 
+审批和拒绝可以发生在各个等级。每个决定都有一套规则，规定哪些可以和哪些不可以加入匹配池。
 
-**PLATFORM**
+**平台**
 
-Think of the platform as all of the grants that exist. If a grant is not allowed on the platform, it won't be approved for matching in any category.
+需要将平台视为所有 Grants 的统一标准。如果一个 Grants 在平台上不被允许，它就不会被批准在任何类别中进行匹配。
 
-**ECOSYSTEM**
+**生态系统**
 
-An ecosystem is a set of grants allowed to participate in matching from a particular matching pool or organization. Gitcoin's quarterly "main" grants rounds \(Grants Round 10 or GR15\) are examples of the Ethereum ecosystem rounds. This ecosystem is supporting many open source software developers/orgs and creators who promote the building on or of Ethereum. Other ecosystems may run Grants rounds as well. Uniswap may have an ecosystem grants round, or zCash, Matic, etc.
+生态系统是一组允许从一个特定的匹配池或组织中参与匹配的 Grants 。Gitcoin的每季度 "主要 " Grants 捐赠（Grants Round 10或GR15）是以太坊生态系统的例子。 这个生态系统正在支持许多开源软件的开发者/团伙和创作者，他们促进了以太坊生态或以太坊自身的建设。其他生态一样也可以允许 Grants，比如 Uniswap、zCash, Matic 等都可以有他们自己创建的 Grants。
 
-**ROUND**
+**轮次**
 
-The rounds are specific time based instances of [Quadratic Funding](http://wtfisqf.com/) matching within an ecosystem. Each round includes all the grants allowed in the ecosystem hosting the round. For example, GR10 was the Ethereum ecosystem round with matching from 6/16/21 - 7/1/21. During a Gitcoin Grants Round is is common to also have "side rounds" that run at the same time. For example, during GR10 the "main" round was the Ethereum Ecosystem round, with a "side round" for Gitcoin building Gitcoin. Each round has a unique pool of matching funds.
+轮次是根据[二次方募资](https://wtfisqf.com/?grant=\&grant=\&grant=\&grant=\&match=1000)匹配生态系统而设定的，每一轮都允许生态系统里的 Grants 参与。举例来说，GR10 指的是以太坊生态系统 6/16/21 - 7/1/21这一轮。 在捐款轮还有一些附属轮捐赠，比如 GR10 主要捐赠项目是以太坊生态轮，同时也会有附属轮为 Gitcoin 建设募资，每一轮都会有独立的资金匹配池。
 
-**COLLECTION**
+**合集**
 
-Collections are subsets of an ecosystem. These can be determined by the matching pool contributors like the Infrastructure, dapp, & community collections. They can also be created by any individual or org who wants to share the specific grants they support. These collections often have a unique pool of matching funds, but they do not have to.
+合集通常是一个生态系统的子集，它们可以由匹配捐赠池子的贡献者决定，如基础设施、应用程序和社区等，也可以由任何想要分享他们特定捐款用途的个人或组织创建。这些集合通常有一个特殊的匹配资金池，但也并非一定要这样做。
 
-**Participation Policy**
+**参与政策**
 
-This is an incomplete list of the rules for each category and who sets them. The Anti-Fraud & Collusion workstream will be putting together a thorough policy document for the community before GR11. The current rules come from the Gitcoin Holdings Inc. Terms of Service and the established norms of the community. 
+这是一份尚不完整的清单，列出了每个类别的规则和谁制定的规则。反欺诈和串通工作流将在 GR11 之前为社区准备一份更详尽的政策文件。目前的规则来自于 Gitcoin Holdings Inc. 服务条款和社区的既定规范。
 
-**PLATFORM**
+**RM平台**
 
-This policy is set and enforced by the Anti-Fraud & Collusion workstream of GitcoinDAO and is ratified by the GitcoinDAO stewards. The following are not permitted:
+本政策由 GitcoinDAO 反欺诈和串通工作流制定和执行，并由 GitcoinDAO 管家批准。以下情况是不允许的：
 
-* Fraud \| Impersonation - Claiming to be a brand or person you are not
-* Hateful Content - Racist, sexist, or otherwise hateful
-* Deceiving Users - Malicious content that could cause harm or unintended consequences to users
-* Advertising - Using grants to showcase something you are selling like a token sale or NFT drop
+* 欺诈 | 冒名顶替 - 声称自己是一个品牌或某组织的人，但实际上并非如此。
+* 仇恨性内容 - 种族主义、性别歧视或其他仇恨性内容仇恨性内容 - 种族主义、性别歧视或其他仇恨性内容
+* 欺骗用户 - 可能对用户造成伤害或意想不到后果的恶意内容
+* 广告 - 利用捐款来展示你正在销售的东西，如代币销售或NFT投放
 
-**ECOSYSTEM**
+**生态系统**
 
-This policy is set by the contributors to the matching pool and/or the community the ecosystem serves. 
+这一政策是由匹配池的贡献者和/或生态系统所服务的社区制定的。
 
-For example, the _Ethereum Ecosystem \| Round GR10_ policy is ratified by the keyholders of the multi-sig wallet which holds the matching funds. 
+例如，以太坊生态 | GR10 轮的政策是由持有匹配资金的多签名钱包的钥匙持有人批准的。
 
-The _Gitcoin Building Gitcoin Ecosystem \| Side Round to GR10_ policy is ratified by Gitcoin Holdings Inc., the sole contributor to the matching funds.  
+建设 Gitcoin 生态系统 |  GR10 附属轮的政策由 Gitcoin Holdings Inc.批准，该公司是配套资金的唯一贡献者。
 
-Any ecosystem round can be ratified by the individual, org, multi-sig, or dao which controls the matching pool funds for that round. The same would apply for any other ecosystem round. For example, Uniswap can define their eligibility policy agnostic of other considerations from GitcoinDAO or other communities.
+任何生态系统轮次都可以由控制该轮次匹配池资金的个人、组织、多重签名或 DAO 来批准，这同样适用于任何其他的生态系统轮。例如 Uniswap 可以定义他们的资格政策，与 GitcoinDAO 或其他社区的考量无关。
 
-**ROUND**
+**轮次**
 
-An ecosystem may decide to host a round with different participation criteria than the ecosystem level policy. For example, the Ethereum ecosystem may want to do a round which only supports matching for projects building layer 2 infrastructure. This "_collection"_ of grants would be a subset of the grants. This could be constrained to only allow ecosystem approved grants or it could be open to any other subset of grants on the platform. 
+一个生态系统可以决定举办一个参与标准与生态系统政策级别不同的轮次。例如，以太坊生态系统可能想做一个轮次，只支持为建设第二层基础设施的项目匹配。 这个 Grants 的 “合集 "将一个子集，可以被限制为只允许生态系统批准的捐赠，也可以对平台上的任何其他赠款子集开放。
 
-In this situation, the policy for the round would be ratified by the individual, org, multi-sig, or DAO which controls the matching pool funds for that round. Currently the "main" rounds are ratified by the multisig holders of GitcoinDAO's matching funds. "Side" rounds are reviewed and ratified by those communities running the rounds.
+在这种情况下，该轮的政策将由控制该轮匹配池资金的个人、组织、多签名或 DAO 批准。目前，"主要"轮次是由 GitcoinDAO 的匹配资金的多签名持有人批准的，"附属 "轮次由那些运行本轮社区进行审查和批准。
 
-**COLLECTION**
+**合集**
 
-Any subset of grants on the platform is a collection. Any user can make a collection. Participation for their collection in an ecosystem \| round would be determined by that ecosystem \| round. Uniquely funding a collection is encouraged, but has stipulations. For Gitcoin's Grant Rounds, to fund a collection there is a request to also fund the matching pool for all Grants at the same time. For example, if I want to build a collection for "Owocki's Fav Grants" and put a $15K matching fund together for that collection, Gitcoin has requested there is an equal $15K donated to the "main" matching pool to ensure the sustainability of the matching pool for all eligible ecosystem grants.
+平台上任何 Grants 的子集都是一个合集，可以允许任何用户建立一个合集。他们的合集在某一轮生态系统中的如何参与捐款将由该生态系统决定。我们鼓励单独地捐赠一个集合，但也有相关的规定。对于 Gitcoin 的捐赠轮次，要捐赠一个集合需要同时捐赠所有的匹配池。例如，如果我想为 "Owocki's Fav Grants “ 建立一个合集，并为该合集投入1.5万美元的匹配资金，Gitcoin 要求有一个相等的 1.5 万美元捐赠给 "主 "匹配池，以确保所有符合条件的生态系统补助的匹配池具有可持续性。
 
-**Recourse for denied grants**
+**被拒绝的 Grants 申诉**
 
-If a grant is denied, there is a chance that one of two things have happened.
+如果 Grants 被拒绝可以申诉，有可能是发生了两件事中的一件：
 
-1. The judgement did not follow the policy and/or precedent.
-2. There is a novel situation which the current policy does not address. 
+1. 审核没有遵循政策和/或先例。
+2. 有一种新的情况，目前的政策没有解决这个问题.
 
-In the first situation, you will need evidence showing that the decision is made in error. 
+在第一种情况下，你需要有证据表明该决定是在错误中做出的。
 
-For the second, you will need to clearly articulate your case.
+对于第二种情况，你将需要清楚地阐述你的情况。
 
-To get the process started you will need a steward who will back up your claim. You can ask for one in the discord, but DO NOT send them a dm! \(This could get you banned from the server\)
+要开始申诉，你需要找到一个支持你的要求的管家。你可以在讨论区发帖提出要求，但不要给他们发送私信！(这可能会禁止你进入服务器）。
 
-Let us know about your situation in the [appeals-sanctions channel on Discord.](https://discord.gg/YHAZXSqDvv) 
+让我们在之类了解你的情况： [appeals-sanctions channel on Discord.](https://discord.gg/YHAZXSqDvv)
 
-This is a rough diagram of the appeal process. The staking amount is still to be determined and will be updated at that time. Stake is needed to deter spam. 
+这是上诉程序的粗略示意图。质押的金额仍有待确定，届时将予以更新。质押是需要的，主要是用来阻止垃圾邮件。
 
-![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin_kb_attachments/2021/06-30/dedcf5d3-7e2d-4b5a-87d1-42d2f91dd136/GrantVerificationProcessGitcoinHoldings-GoogleChrome2021-06-22at2.05.01PM.jpeg)
-
+![](https://hf-files-oregon.s3.amazonaws.com/hdpgitcoin\_kb\_attachments/2021/06-30/dedcf5d3-7e2d-4b5a-87d1-42d2f91dd136/GrantVerificationProcessGitcoinHoldings-GoogleChrome2021-06-22at2.05.01PM.jpeg)

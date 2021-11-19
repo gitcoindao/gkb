@@ -1,8 +1,7 @@
-# Why is Quadratic funding powerful?
+# 为什么二次方募资很厉害？
 
-**The QF Mechanism measures the breadth of contributors, not the depth of contributions - which is a very democratic funding model.**
+**二次方募资机制衡量的是贡献者的广度，而不是贡献的深度 — 这是一个非常民主的资助模式。**
 
-**QF pushes power to the edges of the network!**
+**二次方募资将网络效应发挥到极致！**
 
-**Economist Glen Weyl has called QF the 'optimal way to fund public goods that a broad base of the population cares about.**
-
+**经济学家 Glen Weyl 称二次方募资是 "资助广大民众关心的公共产品的最佳方式”。**

@@ -1,8 +1,7 @@
-# What is Gitcoin's mission?
+# Gitcoin 的使命是什么？
 
-**Our mission is to Grow Open Source - See more at:**
+**我们的使命就是发展开源市场 - 了解更多：**
 
 {% embed url="https://gitcoin.co/mission" %}
 
-**We want to create new information age native institutions to fund public goods.**
-
+**我们希望创建新信息时代的原生机构来资助公共项目产品。**

@@ -1,12 +1,9 @@
-# What's Quadratic Funding?
+# 什么是二次方募资？
 
-**The QF mechanism is a concrete proposal for turning your small donations into something much larger. It requires a simple formula to achieve this goal.**
+**二次方募资是一个具体可操作的提议，他可以让你小额的捐款变得影响力更大，所以它需要有一个简单而有效的公式来完成。**
 
-**Crowdfund individual donations towards open source projects \(try to have the maximum of contributors, it's the number of participants that counts, not the amount of contribution\) . 2- A match from governments, grant programs, or private philanthropists \(offered by sponsors/donors for the grant's round fund\).**
+**个人众筹对开源项目的捐款（尽量有最大的贡献者，重要的是参与者的数量，而不是捐款的数额）。 来自政府、赠款项目或私人慈善家的匹配（由赞助商/ 捐赠者为捐款提供的匹配基金）。**
 
-**Read more about QF here:**
+**阅读关于二次方募资更多的内容：**
 
-{% embed url="https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3243656" %}
-
-
-
+{% embed url="https://papers.ssrn.com/sol3/papers.cfm?abstract:id=3243656" %}

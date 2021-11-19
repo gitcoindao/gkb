@@ -1,16 +1,13 @@
-# I see a grant that is not a public good on the platform, what do I do?
+# 我发现一个不是公益性的捐助，应该怎么办？
 
-**You can use the 'flag' feature to report that grant to our open dispute bot:**
+**你可以使用 "Flag" 功能向我们的争议机器人举报**
 
 {% embed url="https://twitter.com/GitcoinDisputes" %}
 
-**From there, if the community feels strongly that this grant is not a public good, Gitcoin may ask the Grant owner to update their grant or remove the grant from the matching pool.**
+**此时，如果社区觉得确实如举报所描述，Gitcoin 会要求 Grants 发起人更新资料或移除出资金匹配池子。**
 
-**We hope to decentralize this process in the future.**
+**我们希望将来可以用去中心化的方式来解决这个问题。**
 
-**For more on this, see:**
+**关于更多的资料：**
 
 {% embed url="https://twitter.com/owocki/status/1217993123311177728" %}
-
-
-
