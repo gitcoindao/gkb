@@ -4,8 +4,6 @@
 
 [https://gitcoin.co/grants/add-missing-contributions](https://gitcoin.co/grants/add-missing-contributions)
 
-**Attention:** Make sure you connected your wallet to the Ethereum main net with the same address you used to checkout.
-
 注意：请确保您在结账时链接的钱包和以太坊主网的钱包是同一个地址。
 
 如果您是使用以太坊一层结账的，请填写交易哈希。
