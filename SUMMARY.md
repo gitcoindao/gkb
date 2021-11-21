@@ -86,10 +86,10 @@
 ## Gitcoin Policy
 
 * [行为守则](gitcoin-policy/code-of-conduct.md)
-* [Policy](gitcoin-policy/policy/README.md)
-  * [Introduction](gitcoin-policy/policy/introduction/README.md)
+* [政策](gitcoin-policy/policy/README.md)
+  * [介绍](gitcoin-policy/policy/introduction/README.md)
     * [Gitcoin 的使命](gitcoin-policy/policy/introduction/the-gitcoin-mission.md)
-    * [What are we protecting ?](gitcoin-policy/policy/introduction/what-are-we-protecting.md)
+    * [我们在保护什么?](gitcoin-policy/policy/introduction/what-are-we-protecting.md)
     * [Why Quadratic Funding Through Gitcoin Grants Matters ?](gitcoin-policy/policy/introduction/why-quadratic-funding-through-gitcoin-grants-matters.md)
     * [Red Team vs Blue Team](gitcoin-policy/policy/introduction/red-team-vs-blue-team.md)
     * [Legitimacy as a North Star for Gitcoin Grants](gitcoin-policy/policy/introduction/legitimacy-as-a-north-star-for-gitcoin-grants.md)

@@ -1,10 +1,10 @@
-# What are we protecting ?
+# 我们在保护什么?
 
-We believe [Quadratic Funding](https://wtfisqf.com/?grant=\&grant=\&grant=\&grant=\&match=1000) is the optimal way of funding public goods in a democratic society. Gitcoin Grants employs QF as a funding mechanism for digital public goods, and to date is the largest implementation of QF on the planet. But QF does have vulnerability. It can be gamed through Sybil and Collusion attacks, which is why identity verification — for grant funders as well as project owners is vital. This document largely discusses how QF defense is governed including:
+我们认为在一个民主团里中，[Quadratic Funding](https://wtfisqf.com/?grant=\&grant=\&grant=\&grant=\&match=1000)(QF)是资助公共品的最佳方式。Gitcoin Grants采用QF作为数字公共产品的融资机制，这也是迄今为止全球最大规模的QF范例。但QF机制也存在相应的漏洞，它会被女巫和共谋攻击所影响，这就是身份验证对于赠款资助者和项目所有者至关重要的原因。本文档主要讨论如何进行QF防御，包括：
 
-* What is considered a malicious action, and who is defining it?
-* What remediation is being employed, and who is employing it?
-* What is the grant approval process, and who is responsible for it?
-* What is the appeals process and who is responsible?
-* How is the Gitcoin Team attempting to remain credibly neutral?
-* How decentralized is the current state of governance?
+* 什么将被视为恶意行为，谁在定义它？
+* 采用什么措施来防御，将由谁来实施？
+* Grants的批准流程是怎样的，谁是责任人？
+* 申诉程序是怎样的？谁是负责人?
+* Gitcoin团队如何保持可信的中立？
+* 当前的治理状态去中心化程度如何？

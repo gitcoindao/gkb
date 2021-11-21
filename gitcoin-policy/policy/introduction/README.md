@@ -1,7 +1,7 @@
-# Introduction
+# 介绍
 
-After every Grants Round the Gitcoin Team in collaboration with the community put together a governance retro blog post. We use it to outline the important governance decisions made throughout the round and who is making those decisions. It’s the goal of the Gitcoin Team to remain as credibly neutral as possible as we continue down the path of decentralizing Grants governance. Part of that is being transparent about the process, the people, and the decisions.
+每轮grants过后，Gitcoin团队都会与社区合作撰写回顾日志。该日志将概述该轮grant中所做出的重要治理决策，以及背后的决策者。Gitcoin团队的目标是在继续走去中心化赠款治理道路的同时，尽可能保持中立。这其中就包括对决策过程、决策人员和决策内容保持透明。
 
-Grants Rounds Governance Briefs also act as calls to action to the Community Stewards to ratify the round payouts. They provide round statistics, explanations of various types of malicious actions taken against the Quadratic Funding mechanism and how we responded, disputes and the review process, as well as lessons learned from the round. With the information contained in the Brief the Stewards can make an educated decision on whether or not to ratify the round.
+Grant治理简报还会发起对社区管理人员的行动，以批准该轮次grant的支出。简报提供了该轮grant的统计数据，解释了针对二次融资机制采取的各种行动，以及我们如何应对，审查和决议过程，以及从这轮融资中吸取的教训。根据简报中包含的信息，决策者可以就是否批准该回合做出合理的决定。
 
-While preparing the GR10 Governance Brief, we found that policies and procedures regarding round governance evolved over time. And that in the interest of transparency it would be beneficial to have a separate doc outlining these policies and procedures that would be updated as they changed. That’s what this document is all about!
+在准备GR10治理简报的过程中，我们发现相关治理的政策和程序随着时间的推移而不断变化。为了提高透明度，最好有一份单独的文件来概述这些政策和程序，并在这些政策和程序发生变化时予以更新。这就是本文档的全部内容！
