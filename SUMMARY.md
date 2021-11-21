@@ -49,7 +49,7 @@
   * [看到我不喜欢的 grant，我该怎么办？](gitcoin-grants/grants-faq/i-see-a-grant-that-i-dont-like-what-do-i-do.md)
   * [我发布了一个 grant，如何才可以最大化我的贡献？](gitcoin-grants/grants-faq/ive-posted-a-grant-how-do-i-maximize-my-contributions.md)
   * [Gitcoin grants 所使用的技术是？](gitcoin-grants/grants-faq/tell-me-about-the-technology-youre-using-for-gitcoin-grants.md)
-  * [如果我的贡献看到了，我该怎么办？](gitcoin-grants/grants-faq/what-do-i-do-if-my-contributions-are-missing.md)
+  * [如果我的贡献找不到了，我该怎么办？](gitcoin-grants/grants-faq/what-do-i-do-if-my-contributions-are-missing.md)
   * [Gitcoin Grants 路线图是什么？](gitcoin-grants/grants-faq/what-is-the-gitcoin-grants-roadmap.md)
   * [什么是二次方募资？](gitcoin-grants/grants-faq/whats-quadratic-funding.md)
   * [为什么匹配的捐赠没有更新？](gitcoin-grants/grants-faq/why-isnt-the-match-amount-updating.md)
