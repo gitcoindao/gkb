@@ -6,28 +6,28 @@
 2. 该身份要求继续发展，但对于第五轮来说，一个独特的身份 = 比 CLR 轮更早的 Github 账户。
 3. 身份要求需要该贡献与反女巫攻击或串通账号无关。
 
-**We define collusion per the CLR Paper (** [**https://arxiv.org/pdf/1809.06421.pdf** ](https://arxiv.org/pdf/1809.06421.pdf)**) as**
+我们根据** **CLR（[**https://arxiv.org/pdf/1809.06421.pdf** ](https://arxiv.org/pdf/1809.06421.pdf)）文件将合谋定义为
 
-**" The central vulnerabilities of LR, as with other mechanisms designed based on the assumption of unilateral optimization, are collusion and fraud. Collusion takes place when multiple agents act in their mutual interest to the detriment of other participants. Fraud takes place when a single citizen misrepresents herself as many. "**
+"与其他基于单边优化假设设计的机制一样，LR** **的核心弱点是串通和欺诈。当多个代理人为了他们的共同利益而损害其他参与者的利益时，就会发生串通行为。欺诈发生在一个公民把自己伪装成许多人的时候。"
 
-**To call one case out specifically due to confusion in previous rounds, please avoid any form of quid pro quo that has financial value (a scenario in which a user gets some additional unique benefit/award in return for their donation).**
+由于前几轮的混乱，要特别指出一个案例，请避免任何形式的具有经济价值的交换（用户得到一些额外的独特利益**/ **奖励来回报他们的捐赠的情况）。
 
-**We define a Sybil attack (** [**https://en.wikipedia.org/wiki/Sybil\_attack**](https://en.wikipedia.org/wiki/Sybil\_attack) **) per**
+我们这样定义女巫攻击（[**https://en.wikipedia.org/wiki/Sybil\_attack**](https://en.wikipedia.org/wiki/Sybil\_attack)**）**
 
-**" In a Sybil attack, the attacker subverts the reputation system of a network service by creating a large number of pseudonymous identities and uses them to gain a disproportionately large influence. It is named after the subject of the book Sybil, a case study of a woman diagnosed with a dissociative identity disorder. "**
+"在**女巫**攻击中，攻击者通过创建大量的假名身份来颠覆网络服务的信誉系统，并利用它们获得不成比例的巨大影响力。它是以《**Sybil**》一书的主题命名的，这是一个被诊断为分离性身份障碍的妇女的案例研究。"
 
-**More on our anti-collusion growth strategy here:** [**https://twitter.com/owocki/status/1273458452900151296**](https://twitter.com/owocki/status/1273458452900151296)
+更多关于我们的反共谋增长战略，请点击这里：[**https://twitter.com/owocki/status/1273458452900151296**](https://twitter.com/owocki/status/1273458452900151296)
 
 **Some definite examples of rule-breaking:**
 
-**1. DO NOT offer anyone a quid-pro-quo (especially one that has financial value) for a contribution.**
+一些明确的破坏规则的例子**：**
 
-**2. DO NOT make up a new identity to contribute.**
+1. 不要向任何人提供交换条件（尤其是有经济价值的交换条件）以换取贡献。
+2. 不要通过编造一个新的身份来做贡献
+3. 不要试图伪造捐款。
 
-**3. DO NOT try to falsify a contribution.**
+我们不可能列举每一个违反上述规则的例子，所以请将上述列表视为一个不完整的列表。**您**应该参考 CLR 论文中关于女巫攻击和串通攻击的定义，作为规则的典型案例的来源。
 
-**We cannot possibly enumerate every single literal example of a breaking of the above rule, so please treat the above list as an incomplete list. You should refer to the definitions of Sybil and collusion attack in the CLR paper as the canonical source of truth for the rules.**
+违反规则会导致你的匹配奖金减少或无效。
 
-**Rule violations can lead to a reduction, or nullification, of your matching bonus.**
-
-**Any rule violations can be flagged via the ‘Flag Grant’ functionality on the Grants UI. For transparency, we tweet about rule violations at** [**https://twitter.com/GitcoinDisputes**](https://twitter.com/GitcoinDisputes) **– so follow that account if you’re interested in participating in that governance process.**
+任何违反规则的行为都可以通过赠款用户界面上的 "Flag Grant "功能进行标记。为了提高透明度，我们会在推特上公布违反规则的情况，网址是** **[**https://twitter.com/GitcoinDisputes**](https://twitter.com/GitcoinDisputes) - 如果您有兴趣参与该管理过程，请关注该账户。
