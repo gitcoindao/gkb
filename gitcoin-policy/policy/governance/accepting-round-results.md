@@ -1,3 +1,3 @@
-# Accepting Round Results
+# 接受回合结果
 
-Gitcoin uses quadratic funding to determine matching pool allocation to individual grants. This is a combination of the Quadratic Funding Algorithm, Pairwise matching, and Trust Bonus. But ultimately ratifying the round payouts is governed by the Community Stewards through a governance proposal and Snapshot vote. The payout transaction is then initiated by the multisig holders. In the future, the ratification vote will occur on-chain, and will trigger the payout transaction directly from the DAO’s treasury.
+Gitcoin 使用二次方募资来决定匹配池分配给个人赠款的数量。这是二次方募资算法、配对匹配和信托奖金的组合。但最终批准轮流支付是由社区管理人通过治理提案和快照投票来管理的。然后，赔付交易由 multisig 持有人发起。在未来，批准投票将发生在链上，并将直接从 DAO 的资金库中触发赔付交易。
