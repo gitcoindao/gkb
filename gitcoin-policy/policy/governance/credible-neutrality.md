@@ -1,13 +1,13 @@
-# Credible Neutrality
+# 可信的中立性
 
-Participation in Gitcoin Grants takes place on several abstraction layers, and each layer is governable. Since the end goal is governance entirely by the Community Stewards, we’ll need to decentralize governance of each layer, from the bottom up.
+参与 Gitcoin Grants 是在几个抽象层上进行的，每一层都是可以治理的。最终目标是完全由社区 Stewards 治理，我们需要自下而上地对每一层进行去中心化治理。
 
-Here are the efforts taken for Grants Round 10
+这是大家在第 10 轮作出的努力。
 
-Grants Round 10 saw governance play a large role. The Anti-Fraud Workstream developed oversight practices for the review of new grants and the adjudication of disputes.
+第 10 轮赠款的治理发挥了很大作用。反欺诈工作小组为审查新赠款和裁决争端制定了监督的模式。
 
-1. We use the [@GitcoinDisputes](https://twitter.com/GitcoinDisputes) Twitter handle to communicate to and seek feedback from the community as we spot potential attacks.
-2. We employ an [open & community driven data analysis process](https://twitter.com/tecmns/status/1371451763820171270) driven by BlockScience and the Token Engineering Commons through the [Anti-Fraud Workstream](https://gov.gitcoin.co/t/workstream-anti-fraud-workstream-assemble/158).
-3. Prior to GR10, the Gitcoin Community Stewards [ratified round sizes](https://snapshot.org/#/gitcoindao.eth/proposal/QmRbuBUX7vtNhYwYqYG3Jd4LqaRXVM8qDgjNojGEAzJdnH) through snapshot vote.
-4. Through a Snapshot vote the [Gitcoin Community Stewards ratified the creation of a new round](https://snapshot.org/#/gitcoindao.eth/proposal/QmZTskr6yb4tSF7Jnnvd5a2YsuJJBDveEv4hbK6QJM83SB) (Building Gitcoin), and accepted $50K from Gitcoin Holdings to fund it.
-5. Through the Anti-Fraud Workstream, the community created a process of governing suspected fraudulent users and grants. As follows:
+1. 在发现潜在的攻击时，我们使用 [@GitcoinDisputes](https://twitter.com/GitcoinDisputes) 与社区沟通并寻求反馈。&#x20;
+2. 我们采用了一个[开放 & 社区驱动的数据分析过程](https://twitter.com/tecmns/status/1371451763820171270)，通过[反欺诈小组](https://gov.gitcoin.co/t/workstream-fraud-detection-and-defense-working-group-assemble/158)，由 BlockScience 和 Token Engineering Commons 推动。
+3. 在 GR10 之前，Gitcoin Stewards 通过快照投票[来批准回合数](https://snapshot.org/#/gitcoindao.eth/proposal/QmRbuBUX7vtNhYwYqYG3Jd4LqaRXVM8qDgjNojGEAzJdnH)。
+4. 通过快照投票，[Gitcoin 社区 Steward 批准了新一轮的创建（建设 Gitcoin](https://snapshot.org/#/gitcoindao.eth/proposal/QmZTskr6yb4tSF7Jnnvd5a2YsuJJBDveEv4hbK6QJM83SB)），并接受了 Gitcoin Holdings 提供的 5 万美元的资金。
+5. 通过反欺诈工作流，社区创建了一个治理涉嫌欺诈的用户和赠款的程序。具体如下：

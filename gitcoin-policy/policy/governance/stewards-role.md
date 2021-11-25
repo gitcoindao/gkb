@@ -1,3 +1,3 @@
-# Stewards Role
+# Stewards 角色
 
-The Gitcoin Governance ecosystem is a delegated voting system (liquid democracy) which allows token holders to delegate their voting power to someone else. Community members who have had tokens delegated to them are Stewards, and may vote in on/off chain governance proposals. Token holders may delegate their voting power to themselves if they wish to participate as Stewards. Stewards who alone or with a group meet quorum (1mm token supply) may submit governance proposals that call for a vote.
+Gitcoin 治理生态系统是一个委托投票系统（流动民主），允许代币持有人将其投票权委托给其他人。社区成员将代币委托给他们的 Stewards，可以在链上/ 链下治理提案中投票。如果代币持有者希望作为 Stewards 参与，他们可以将投票权委托给自己。独自或与小组一起达到法定数量的管理人可以提交治理提案，要求投票。
