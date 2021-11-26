@@ -1,8 +1,8 @@
 # Qu'est-ce qu'une DAO ?
 
-Any question ? Make sure to check the DAO FAQ:
+Des questions ? Assurez-vous de consulter la FAQ :
 
-{% page-ref page="dao-faq/" %}
-
-
+{% content-ref url="dao-faq/" %}
+[dao-faq](dao-faq/)
+{% endcontent-ref %}
 

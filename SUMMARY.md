@@ -11,7 +11,7 @@
 * [Qu'est-ce qu'une DAO ?](gitcoin-dao/what-is-a-dao.md)
 * [DAO FAQ](gitcoin-dao/dao-faq/README.md)
   * [Qu'est-ce que GitcoinDAO ?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
-  * [Qu'est-ce que Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
+  * [Que sont les Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
   * [Que sont les chantiers de gouvernance ?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
   * [Comment puis-je m'impliquer dans la gouvernance ?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
   * [Qu'est-ce que le programme de délégation des Gitcoin Stewards ?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
