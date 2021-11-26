@@ -10,8 +10,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout action
-        uses: actions/checkout@v2
       - name: upload-files-to-web3-storage
         uses: Discovery-Labs/dCompass-Gitbook-action@v0.0.1-beta
         env:
