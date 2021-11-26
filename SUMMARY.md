@@ -18,7 +18,7 @@
   * [Qui choisit les stewards ?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
   * [Dites moi en plus sur le Stewardship!](gitcoin-dao/dao-faq/tell-me-more-about-stewardship..md)
   * [Où se passe la gouvernance ?](gitcoin-dao/dao-faq/where-does-governance-happen.md)
-  * [À quoi ressemble une future DAO Gitcoin ?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
+  * [À quoi ressemblera la future DAO Gitcoin ?](gitcoin-dao/dao-faq/what-does-a-future-gitcoin-dao-look-like.md)
   * [Allez-vous éventuellement dissoudre Gitcoin en tant que société ?](gitcoin-dao/dao-faq/will-you-eventually-dissolve-gitcoin-as-a-company.md)
 
 ## Gitcoin Token
@@ -81,9 +81,8 @@
 
 ## External links
 
-* [Moonshot Collective](https://moonshotcollective.space/)
+* [Moonshot Collective](https://moonshotcollective.space)
 
 ## Gitcoin Policy
 
 * [Code de conduite](gitcoin-policy/code-of-conduct.md)
-
