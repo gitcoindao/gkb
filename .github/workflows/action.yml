@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: upload-files-to-web3-storage
-        uses: Discovery-Labs/dCompass-Gitbook-action@v0.0.1-beta
+        uses: Discovery-Labs/dCompass-Gitbook-action@v0.0.1-charlie
         env:
           DID_KEY: ${{ secrets.DID_KEY }}
           WEB3STORAGE_TOKEN: ${{ secrets.WEB3STORAGE_TOKEN }}
