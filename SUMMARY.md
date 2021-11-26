@@ -14,7 +14,7 @@
   * [Que sont les Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
   * [Que sont les chantiers de gouvernance ?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
   * [Comment puis-je m'impliquer dans la gouvernance ?](gitcoin-dao/dao-faq/how-do-i-get-involved-in-governance.md)
-  * [Qu'est-ce que le programme de délégation des Gitcoin Stewards ?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
+  * [Qu'est-ce que le programme de délégation aux Stewards de Gitcoin ?](gitcoin-dao/dao-faq/what-is-the-gitcoin-stewards-delegation-program.md)
   * [Qui choisit les stewards ?](gitcoin-dao/dao-faq/who-chooses-stewards.md)
   * [Dites moi en plus sur le Stewardship!](gitcoin-dao/dao-faq/tell-me-more-about-stewardship..md)
   * [Où se passe la gouvernance ?](gitcoin-dao/dao-faq/where-does-governance-happen.md)
