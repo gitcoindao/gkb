@@ -1,9 +1,9 @@
-# Ecosystem Acceptance
+# 生态认可
 
-A subset of grants supported by a continuous matching pool. The ecosystem establishes their own norms & values.
+由一个持续的匹配池支持的捐助子集。生态系统建立了他们自己的规范和价值。
 
-To use the Gitcoin Grants platform, the GitcoinDAO must approve of the ecosystem who is providing matching funding to a self-curated collection of grants. **This requires ratification by Steward Vote.**
+要使用** **Gitcoin Grants 平台，GitcoinDAO 必须批准为自我策划的捐款集合提供匹配资金的生态系统。这需要通过 Steward Vote 的批准。
 
-The Ethereum ecosystem is the one our quarterly grants rounds currently focus on. This ecosystem is supporting many open source software developers/orgs and creators who promote the building on or of Ethereum.
+以太坊生态系统是我们的季度赠款回合目前关注的一个生态系统。这个生态系统正在支持许多开源软件的开发者/ 团队和创造者，他们促进了以太坊上或以太坊的建设。
 
-The Ethereum ecosystem has also formed a split governance where the community multi-sig holders verify the work of GitcoinDAO as a check and balance. The GitcoinDAO is tasked with upholding the norms & values of the ecosystem.
+以太坊生态系统也形成了去中心化的治理，社区的多签者对 GitcoinDAO 的工作进行验证，作为一种制衡。GitcoinDAO 的任务是维护生态系统的规范和价值。

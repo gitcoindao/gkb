@@ -1,6 +1,6 @@
-# Collection Levels & Participation Policies
+# Collection 水平和参与政策
 
-Think of the Platform as all of the grants that exist. If a grant is not allowed on the platform, it won't be approved for matching in any collection.
+Think of the Platform as all of the grants that exist. If a grant is not allowed on the platform, it won't be approved for matching in any collection.]
 
 There are two primary types of collections. They
 
