@@ -90,7 +90,7 @@
   * [介绍](gitcoin-policy/policy/introduction/README.md)
     * [Gitcoin 的使命](gitcoin-policy/policy/introduction/the-gitcoin-mission.md)
     * [我们在保护什么?](gitcoin-policy/policy/introduction/what-are-we-protecting.md)
-    * [Why Quadratic Funding Through Gitcoin Grants Matters ?](gitcoin-policy/policy/introduction/why-quadratic-funding-through-gitcoin-grants-matters.md)
+    * [为什么 Quadratic Funding 在 Gitcoin Grants 中很重要?](gitcoin-policy/policy/introduction/why-quadratic-funding-through-gitcoin-grants-matters.md)
     * [Red Team vs Blue Team](gitcoin-policy/policy/introduction/red-team-vs-blue-team.md)
     * [Legitimacy as a North Star for Gitcoin Grants](gitcoin-policy/policy/introduction/legitimacy-as-a-north-star-for-gitcoin-grants.md)
   * [捐款平台和技术](gitcoin-policy/policy/gitcoin-grants-platform-and-technology.md)

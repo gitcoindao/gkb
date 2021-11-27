@@ -1,9 +1,9 @@
-# Why Quadratic Funding Through Gitcoin Grants Matters ?
+# 为什么 Quadratic Funding 在 Gitcoin Grants 中很重要?
 
-Gitcoin Grants gives the community an opportunity to help focus where funds are directed. This directly impacts how builder cycles are allocated. When community members send funds to a grant they are signalling their support for it, becoming a voice and a vote for its importance. Their participation determines how much of the match fund a grant receives, and because of QF, their vote has a quadratic impact.
+Gitcoin Grants 为社区提供了一个了解资金去向的机会。这直接影响到建设者周期的分配方式。当社区成员为一个 grant 提供资金时，就表明了他们对项目的支持，并愿意为其发声和投票。他们的参与决定了一个 grant 获得资金的数量，而且正是由于QF的存在，他们的投票才产生了 quadratic 的影响。
 
-![The Round 10 Preference Map. Each Node is a project or a person, and each edge is a funding transaction.](https://lh6.googleusercontent.com/-mC7L4O-W2DhuWKaH8ZZ5Lw_xU8Fd6KsawjySZl4iGr3Hxf0h7Ekv5p5MYVKLthu2wGsTti59IfkgItUxI_LLKQByVKgX1E5cyTrxROfc48wab6biw1itV7m6EuqFUfU_YYM8P4)
+![The Round 10 Preference Map. Each Node is a project or a person, and each edge is a funding transaction.](https://lh6.googleusercontent.com/-mC7L4O-W2DhuWKaH8ZZ5Lw\_xU8Fd6KsawjySZl4iGr3Hxf0h7Ekv5p5MYVKLthu2wGsTti59IfkgItUxI\_LLKQByVKgX1E5cyTrxROfc48wab6biw1itV7m6EuqFUfU\_YYM8P4)
 
-Gitcoin Grants supports open web development, but beyond that, we view Gitcoin Grants as a vital experiment in Quadratic Funding. Testing QF is important because we believe it is the optimal way of funding public goods in a democracy, and could become a major approach to allocating public resources this decade and beyond.
+Gitcoin Grants支持开放网络的开发，但除此之外，我们认为 Gitcoin Grants 是 QF 的一个重要实验。测试QF是很重要的，因为我们相信它是在民主社会中资助大众产品的最佳方式，并可能成为当下十年甚至以后分配公共资源的主要方式。
 
-Each round offers more opportunity for our community to learn and test the system together, while the stakes get increasingly higher as the rounds become more successful. That is why it’s crucial as part of our quarterly Grants Round cadence to take pause and reflect on all aspects of the round — the accomplishments and challenges. In doing so, we learn how to better support the community in improving the integrity in the system and the transparency in the process.
+每一轮 grant 都为我们的社区提供了更多的机会来学习和测试这个系统，然而随着一轮又一轮的成功，风险也变得越来越大。因此作为季度 grant 的一部分，我们需要暂停并反思本轮次的方方面面，包括成就和挑战，这一点是至关重要的。在这样做的过程中，我们学会了通过提高制度的完整性和流程的透明度来更好地支持社区。

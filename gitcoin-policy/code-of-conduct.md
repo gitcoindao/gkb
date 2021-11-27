@@ -14,34 +14,34 @@
 * 专注做对社区最有利的事情
 * 对其他社区成员有共情能力
 
-参与者不可接受的行为的例子包括：
+参与者不被接受的行为的例子包括：
 
-* The use of sexualized language or imagery and unwelcome sexual attention or advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or electronic address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+* 使用与性有关的言语或图像以及不受欢迎的性骚扰或挑逗
+* 嘲弄、侮辱/诽谤性的评论，以及个人或政治攻击
+* 公开或私下的骚扰
+* 未经他人明确许可，公布他人的私人信息，例如住址或电子邮箱
+* 其他被合理认为在职业环境中不适当的行为
 
-**Our Responsibilities**
+**我们的责任**
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+项目维护者有责任对可接受的行为标准进行澄清，并对任何不被接受的行为采取适当和公平的纠正措施。
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+项目维护者有权利且有责任删除、编辑或拒绝不符合本行为准则的评论、提交、代码、维基编辑、问题和其他贡献，并对其认定具有不适当、威胁性、攻击性或有害的行为的贡献者进行暂时或永久禁止。
 
-**Scope**
+**范围**
 
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+本行为准则适用于所有项目案例，也适用于在公共空间代表项目的个人或其社区。代表项目或社区的例子包括使用官方项目电子邮件地址，通过官方的社交媒体账户发帖，或作为指定代表参加线上或线下活动。针对项目的代表由项目维护者进一步定义和澄清。
 
-**Enforcement**
+**执行**
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at founders@gitcoin.co. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+如遇到虐待、骚扰或其他不被接受的行为，可以通过联系项目组（founders@gitcoin.co）来报告。所有的投诉都将在审理和调查后给出必要且恰当的回应。项目组有义务对事件的报告人进行保密。关于具体的执行政策的细节会单独公布。
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+不遵守或不严格执行行为准则的项目维护者可能会面临项目领导层其他成员决议后产生的临时或永久性后果。
 
-Attribution This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at:
+归属 本行为准则改编自《贡献者公约》1.4版，见下方网页：
 
 {% embed url="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" %}
 
-For answers to common questions about this code of conduct, see:
+有关本行为准则的常见问题的解答，见下方网页：
 
 {% embed url="https://www.contributor-covenant.org/faq" %}
