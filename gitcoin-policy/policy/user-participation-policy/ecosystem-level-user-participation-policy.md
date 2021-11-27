@@ -1,5 +1,5 @@
-# Ecosystem Level User Participation Policy
+# 生态系统级用户参与
 
-This policy is set by the contributors to the matching pool and/or the community the ecosystem serves.
+这一政策是由匹配池的捐赠者和/或生态系统所服务的社区制定的。
 
-Currently, the product has only built the tools to diminish or turn off matching for the Ethereum Ecosystem or at the platform level.
+目前，该产品只建立了为以太坊生态系统或在平台层面减少或关闭匹配的工具。

@@ -1,3 +1,3 @@
-# Round User Participation Policy
+# 捐赠轮用户参与政策
 
-Round Participation is based on the settings for the ecosystem.
+捐赠轮的用户参与是基于生态系统设定而制定。

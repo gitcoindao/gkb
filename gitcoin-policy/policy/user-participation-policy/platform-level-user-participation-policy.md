@@ -1,10 +1,10 @@
-# Platform Level User Participation Policy
+# 平台级用户参与政策
 
-This policy is set and enforced by the Anti-Fraud & Collusion workstream of GitcoinDAO and is ratified by the GitcoinDAO stewards.
+该政策由 GitcoinDAO 的反欺诈和串通工作流制定和执行，并由 GitcoinDAO 管家批准。
 
-* **Fraud | Impersonation** - Claiming to be a brand or person you are not. **DO NOT MAKE UP A NEW IDENTITY TO CONTRIBUTE**
-* **Hateful Content** - Racist, sexist, or otherwise hateful
-* **Deceiving Users** - Malicious content that could cause harm or unintended consequences to users
-* **Advertising** - Using grants to showcase something you are selling like a token sale or NFT drop
-* **Quid Pro Quo/Bribery** - DO NOT offer anyone a quid-pro-quo (especially one that has financial value) for a contribution.
-* **Falsification** - Any type of hacking to falsify a contribution is prohibited.
+* **欺诈 | 传统** - 声称自己是某品牌或人，而实际上并不是。**不要编造一个新的身份来参与。**
+* **有害内容** - 种族主义者、性别歧视者或其他仇恨者。
+* **欺骗用户** - 可能对用户造成伤害或意想不到后果的恶意内容。
+* **广告** - 利用 Grant 来展示你正在销售的东西，如代币销售或NFT投放。
+* **利益交换/贿赂** - 不要向任何人提供交换条件（尤其是有经济价值的交换条件）以换取捐赠。
+* **伪造行为 **- 禁止任何类型的黑客行为来伪造捐款。
