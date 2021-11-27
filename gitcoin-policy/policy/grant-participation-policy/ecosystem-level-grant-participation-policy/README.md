@@ -1,14 +1,14 @@
-# Ecosystem Level Grant Participation Policy
+# 生态级捐赠参与政策
 
-All ecosystem policy is set by the contributors to the matching pool and/or the community the ecosystem serves. For the Gitcoin UI and ETH ecosystems this is entirely handled by the FDD workstream of GitcoinDAO. For side rounds like UNI, MATIC, or GTC, the FDD Workstream facilitates enforcement of policy set by the ecosystem hosting the side round.
+所有生态系统的政策都是由匹配池的贡献者和/或所服务的社区制定的。Gitcoin UI 和 ETH 生态系统则完全由 GitcoinDAO 的 FDD 工作流处理。对于像 UNI、MATIC 或 GTC 这样的附属轮次项目，FDD 工作流则是促进了由他们自己生态系统设定的政策执行。
 
-There are two types of ecosystems:
+有两个类型的生态系统：
 
-1. **Inclusive** - Grants must be approved to match the level policy, but defaults to inclusion.
-2. **Exclusive** - Grants must be explicitly invited by the ecosystem.
+1. **兼容性** - 捐赠必须经过符合政策审批，但默认为兼容性。
+2. **独享性** - 捐赠必须由生态系统明确邀请。
 
-As an example of an **INCLUSIVE** ecosystem, the Ethereum Ecosystem | Round GR10 policy is ratified by the keyholders of the multi-sig wallet which holds the matching funds. The Ethereum ecosystem also uses the GitcoinDAO to set its policy.
+举一个**兼容性**生态系统的例子，以太坊生态系统 | Round GR10 政策是由持有匹配资金的多签钱包的关键人物批准的，以太坊生态系统也使用 GitcoinDAO 来设定其政策。
 
-IINCLUSIVE - Anyone could make a grant and apply to The Gitcoin Building Gitcoin Ecosystem | Side Round to GR10. However, participation policy was ratified by Gitcoin Holdings Inc., the sole contributor to the matching funds.
+兼容性 - 任何人都可以进行捐款并申请 The Gitcoin Building Gitcoin Ecosystem | Side Round to GR10。然而，参与政策是由 Gitcoin Holdings Inc. 批准的，它是配套资金的唯一贡献者。
 
-EXCLUSIVE - The GR8 ZCash ecosystem side-round policy was invite only to grants which were explicitly invited to the round by the entity which controled the matching pool funds for that round. The same would apply for any other exclusive ecosystem|round.
+**独享性**  - GR8 ZCash 生态系统的附属轮捐赠只邀请控制其匹配池资金的实体来捐赠。这同样适用于任何其他专属生态系统的捐赠。

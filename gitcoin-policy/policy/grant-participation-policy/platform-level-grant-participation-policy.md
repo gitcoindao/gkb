@@ -1,8 +1,10 @@
-# Platform Level Grant Participation Policy
+# 平台级捐赠参与政策
 
-This policy is set and enforced by the Anti-Fraud & Collusion workstream of GitcoinDAO and is ratified by the GitcoinDAO stewards.
 
-* **Fraud | Impersonation** - Claiming to be a brand or person you are not
-* **Hateful Content** - Racist, sexist, or otherwise hateful
-* **Deceiving Users** - Malicious content that could cause harm or unintended consequences to users
-* **Advertising** - Using grants to showcase something you are selling like a token sale or NFT drop
+
+该政策由 GitcoinDAO 的反欺诈和串通工作流制定和执行，并由 GitcoinDAO 管理人批准。
+
+* **欺诈 | 冒名顶替** - 声称自己是一个品牌或人，但实际上并非如此。
+* **仇恨性内容** - 种族主义、性别歧视或其他仇恨性内容
+* **欺骗用户** - 可能对用户造成伤害或意想不到的后果的恶意内容
+* **广告** - 利用赠款来展示你正在销售的东西，如代币销售或 NFT 投放

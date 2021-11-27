@@ -1,12 +1,14 @@
-# All Exclusive Ecosystem Policy Documentation
+# 所有独享性捐赠项目政策
+
+
 
 GTC - Gitcoin Building Gitcoin
 
 UNI - Uniswap
 
-* Matic Ecosystem Participation Policy
-* ZCash Ecosystem Participation Policy
-* Filecoin Ecosystem Participation Policy
-* Sia Ecosystem Participation Policy
-* Algorand Ecosystem Participation Policy
-* Binance Smart Chain Ecosystem Participation Policy
+* Matic 生态系统参与政策
+* ZCash 生态系统参与政策
+* Filecoin 生态系统参与政策
+* Sia 生态系统参与政策
+* Algorand 生态系统参与政策
+* Binance Smart Chain 生态系统参与政策
