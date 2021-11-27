@@ -1,17 +1,17 @@
-# Red Team vs Blue Team
+# 红蓝对决
 
-Quadratic Funding is amazing in how it amplifies the contributions of small donors, but it also comes with some open research problems to solve: namely how to prevent sybil attacks and collusion attacks. To learn more about Sybil and Collusion, [please watch these short videos](https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698\_lHvma).
+二次融资在提高小额捐赠者的影响方面效果显著，但它也带来了一些有待解决的开放性问题：即如何防止女巫攻击和共谋攻击。要了解更多关于女巫攻击和共谋攻击，[<mark style="color:blue;">请观看此视频</mark>](https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698\_lHvma)<mark style="color:blue;">.</mark>
 
 {% embed url="https://www.youtube.com/playlist?list=PLvTrX8LNPbPmkUTnZOZPfku5698:lHvma" %}
 
-[We have partnered with BlockScience](https://gitcoin.co/blog/towards-computer-aided-governance-of-gitcoin-grants/) and the Token Engineering Commons to create an open community-data-review process so we can begin solving these problems to [deter adversarial behaviour at scale on Gitcoin Grants](https://gitcoin.co/blog/deterring-adversarial-behavior-at-scale-in-gitcoin-grants/).
+我们已经与[BlockScience](https://gitcoin.co/blog/towards-computer-aided-governance-of-gitcoin-grants/) 和Token Engineering Commons进行合作，创建了一个开放的社区数据审查流程，因此我们可以开始处理解决这些攻击，以阻止Gitcoin赠款中的[敌对行为](https://gitcoin.co/blog/deterring-adversarial-behavior-at-scale-in-gitcoin-grants/)。
 
 {% embed url="https://gitcoin.co/blog/deterring-adversarial-behavior-at-scale-in-gitcoin-grants/" %}
 
-While Gitcoin Grants is known primarily as a public goods funding mechanism, there is another way of looking at it. Grants Rounds are battlegrounds for pushing forward research in adversarial behaviour in digital identity-based funding mechanisms. If you look at it from a certain angle, Grants Rounds are giant red team / blue team exercises for battle-testing Quadratic Funding in the real world, with real value on the line.
+虽然Gitcoin赠款主要作为一种公共品融资机制而被熟知，但还有另一种看待它的方式。那就是推动研究基于数字身份捐赠的攻击行为的战场。从某个角度来看，赠款回合是红队/蓝队在现实世界中进行作战测试的巨大演习，具有实际价值。
 
-Our approach is iterative. Every round our goal is to build blue team’s fortitude by identifying and categorizing attacks from the red team, so that moving forward our community has defense against them. That way we can scale up the positive impact of QF.
+我们的方法是不断迭代的。我们的每一轮目标都是通过识别和分类来自红队的攻击，来建立蓝队的坚韧性，以便我们的社区能够抵御攻击。这样我们就可以扩大QF的影响。
 
-Grants Round 9 saw a marked uptick in attacks, both in number as well as approach — which makes sense given more participation and more funds on the line. There is simply greater and greater incentive to try to game QF as the matching pool grows. So in GR10, we adjusted our approach to defending QF, which we’ll discuss in more detail below.
+在9轮捐赠中，随着更多的参与者的加入和更多的资金投入，攻击数量和方式也相应地明显上升。随着匹配池数额的增长，试图利用QF缺陷的动机越来越大。因此，在第十轮捐赠中，我们调整了防御QF的方法，我们将在下面更详细地讨论。
 
-We view grant round integrity as a public good in itself, and so articulating what we’ve witnessed is an important priority for us.
+我们认为捐赠轮次本身的完善就是一种公共利益，因此对捐赠环节的一切事项开诚布公是我们的一个重要优先事项。
