@@ -1,5 +1,5 @@
-# Sub-Round Acceptance
+# 附属轮次共识
 
-A subset of grants allowed in the ecosystem and round which are eligible for a specific category of matching. (May be inclusive or exclusive - Set by ecosystem)
+一个独立的生态系统利用每一轮大的捐赠获得来为自己特定项目争取捐赠。例如在 GR10 期间，"Gitcoin Building Gitcoin" 就是由 Gitcoin Holdings 提供配套资金的，因此他们制定了特殊的生态系统和参与政策。
 
-In each quarterly grants round, the large matching pool is divided into sub-rounds. For example in GR10, the six sub-rounds were Infra Tech, dApp tech, Community, NFTs, dGov, LatAm.
+GitcoinDAO 管家需要按常规来审核每个项目，但遇到”附属“捐赠时候会注意到，这是这个项目是在更大的一个生态系统上附着的，需要被特殊查看。

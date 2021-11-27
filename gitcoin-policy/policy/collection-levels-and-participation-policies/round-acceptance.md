@@ -1,3 +1,3 @@
-# Round Acceptance
+# 轮次共识
 
-The rounds are specific time based instances of matching within an ecosystem. Each round includes all the grants allowed in the ecosystem hosting the round. GR10 is the Ethereum ecosystem round with matching from 6/16/21 - 7/1/21.
+轮次是在一个生态系统内基于特定时间的实际用例。它允许所有生态系统中参与捐赠的 Grants 来组织活动。GR10 是以太坊生态系统的一轮，匹配时间为 6/16/21-7/1/21。

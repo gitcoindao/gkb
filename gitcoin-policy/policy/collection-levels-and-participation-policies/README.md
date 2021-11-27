@@ -1,10 +1,10 @@
-# Collection 水平和参与政策
+# 合集层级与参与政策
 
-Think of the Platform as all of the grants that exist. If a grant is not allowed on the platform, it won't be approved for matching in any collection.]
+需要把平台看做一个整体，如果一个 Grant 在平台上被禁止，那么会在所有地方被禁止。
 
-There are two primary types of collections. They
+这里主要有两种合集，分别是：
 
-1. **Ecosystem** - Subset of "All Grants on Platform". Has it's own matching pool & policy.
-2. **Discovery** - Subset of grants in an Ecosystem. Can be given its own matching if the ecosystem allows for it.
-   * **Sub-Rounds** like Infra, Dapp, Community are Discovery collections in the Ethereum ecosystem which are allocated a portion of the total matching for the round.
-   * **User Collections** can be made by any user to highlight grants they think need to be supported.
+1. **生态系统** - 是 "平台上所有赠款 "的子集，它有自己的匹配池和政策。
+2. **发现** -  生态系统中的捐赠子集。如果生态系统允许，可以给予自己的独立的匹配池。
+   * **子集：**像 Infra、Dapp、Community 都是以太坊生态系统中的发现合集，它们被分配了该轮总匹配的一部分。
+   * **用户合集：** 任何用户都可以新建一个合集，用来展示他们想要支持的项目。
