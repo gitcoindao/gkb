@@ -1,15 +1,15 @@
-# User Participation Policy
+# 用户参与政策
 
-The current rules come from the Gitcoin Holdings Inc. Terms of Service and the established norms of the community. The next step in progressively decentralizing is to have the stewards of GitcoinDAO ratify the entirety of this policy.
+目前的规则来自于 [Gitcoin Holdings Inc](https://gitcoin.co/legal/terms)，服务条款和社区的既定规范。逐步去中心化的下一步目标是让 GitcoinDAO 的管家们审批准这一政策的全部内容。
 
-Users are not reviewed upon activation on the platform. They are only reviewed when one of our detection mechanisms flags them as "presenting as fraudulent or sybil".
+用户在平台上激活时不会被审查。只有当我们的检测机制将他们标记为"欺诈或虚假"时，他们才会被审查。
 
-Users in violation of the ToS or norms & values of an ecosystem may have their contributions effect on match allocations diminished or turned off. They may also be blocked from accessing the platform.
+违反 ToS 或生态系统的规范和价值的用户，他们可能会被减少或关闭其对匹配分配的贡献，也可能被阻止访问该平台。
 
-**There are multiple levels for approval.**
+**不同等级的审核**
 
-Platform | Ecosystem | Round | Sub-Round | Side-Round
+平台 | 生态系统 | 轮次 | 合集** **| 次合集
 
-At each level, the participation policy allows for a subset of the users allowed at the higher level.
+在每一级，参与政策允许上一级所允许的用户的一个子集。
 
-**We cannot possibly enumerate every single literal example of a breaking of the above rule, so please treat the above list as an incomplete list. You should refer to the definitions of Sybil and collusion attack in the CLR paper as the canonical source of truth for the rules.**
+我们不可能列举每一个违反上述规则的例子，所以请将上述列表视为一个不完整的列表。您应该参考** **CLR论文中关于 Sybil 和串通攻击的定义，作为规则的参考。
