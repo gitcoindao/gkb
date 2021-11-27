@@ -31,7 +31,7 @@ description: Web 3.0 的最终目标是创造更加智能、相互连接而又�
 
 ### 管理 Gitcoin 的 DAO
 
-为了保证 Gitcoin 首先为使命和社区服务，Gitcoin由社区管理。2021 年 5 月，[GTC 发布](https://gitcoin.co/blog/introducing-gtc-gitcoins-governance-token/)。GTC 是一种没有经济价值的治理代币，用于治理 Gitcoin Grants + GitcoinDAO。
+为了保证 Gitcoin 首先为使命和社区服务，Gitcoin 由社区管理。2021 年 5 月，[GTC 发布](https://gitcoin.co/blog/introducing-gtc-gitcoins-governance-token/)。GTC 是一种没有经济价值的治理代币，用于治理 Gitcoin Grants + GitcoinDAO。
 
 要了解如何与 GitcoinDAO 互动，有三个重要的概念需要知道。
 
@@ -55,7 +55,7 @@ description: Web 3.0 的最终目标是创造更加智能、相互连接而又�
 
 ### DAO的季度节奏&#x20;
 
-Gitcoin以季度为单位进行运作。每个季度，Gitcoin 生态系统都围绕着一个季度性的各种活动 -- Gitcoin Grants、黑客马拉松和 KERNEL 的组合 -- 数百万美元的资金会给到社区。一般来说，一个季度是这样的：
+Gitcoin 以季度为单位进行运作。每个季度，Gitcoin 生态系统都围绕着一个季度性的各种活动 -- Gitcoin Grants、黑客马拉松和 KERNEL 的组合 -- 数百万美元的资金会给到社区。一般来说，一个季度是这样的：
 
 1. 计划季度叠加活动
 2. 执行季度叠加活动
@@ -77,14 +77,14 @@ Gitcoin以季度为单位进行运作。每个季度，Gitcoin 生态系统都�
 
 ### 如何参与
 
-2021年9月你可以这样参与 DAO：
+2021 年 9 月你可以这样参与 DAO：
 
 1. 阅读每周由  [@ceresstation](https://gov.gitcoin.co/u/ceresstation) 撰写的 [Week in DAO](https://gov.gitcoin.co/search?q=week%20in%20DAO%20order%3Alatest)&#x20;
 2. 立即加入  [discord](https://gitcoin.co/discord)，[gov.gitcoin.co](https://gov.gitcoin.co)，或关注 [twitter](https://twitter.com/gitcoin)
 3. [Apply as a Contributor](https://airtable.com/shrNCh4oIQYx1QJ2y) [申请成为贡献者](https://airtable.com/shrNCh4oIQYx1QJ2y)
 4. 查看仍在进行的 [stream](https://gov.gitcoin.co/06fad27dbd2d49468aa810c92f1f28c2?v=2adef018760d469fa32b9f96a3e54f63)
-5. 探索更多的workstreams (使用上面的链接)
-6. 使用Gitcoin来赚钱、学习或捐赠(使用上面的链接)
+5. 探索更多的 workstreams (使用上面的链接)
+6. 使用 Gitcoin 来赚钱、学习或捐赠(使用上面的链接)
 7. 探索下面更多的链接：
 
 ### 链接
