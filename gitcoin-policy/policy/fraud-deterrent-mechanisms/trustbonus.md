@@ -1,17 +1,17 @@
-# Trustbonus
+# 信用值
 
-#### TrustBonus
+#### 信用值
 
-**TrustBonus is designed to prevent sybil attacks by incentivizing identity verification**.
+信用值旨在通过激励用户进行身份验证来防止女巫攻击。
 
-This round Gitcoin supported BrightID, Proof of Humanity, Idena, ENS Twitter, POAP, SMS, and Google as optional identity verification techniques. When a user verified their identity on other platforms, they were given a [TrustBonus](http://gitcoin.co/trust).
+本轮 Gitcoin 支持 BrightID、Proof of Humanity、Idena、ENS Twitter、POAP、SMS 和 Google 作为可选的身份验证技术。当用户在其他平台上验证了他们的身份后，他们会得到一个[信用分](https://gitcoin.co/trust)。
 
-The higher the Trust Bonus of a user is, the more we can be confident that the user is real. Higher TrustBonuses come with benefits such as higher a match for grant contributions.
+一个用户的信用值越高，我们就越能确信这个用户是真实的。更高的信用值会带来一些好处，比如具有更高的捐款匹配值。
 
 ![](https://lh6.googleusercontent.com/SsEizuKJuhYn31bauQGkf463wJmc0Z9We1L7kDapaLRYu7DaUvrqfBAk-\_-oe3dB02ZQinstaJYkBC0b94WwxImiv7fq1HdjF95kvHu7AwsrnnJ2jCkcgpmy7C0QdVS1cbj1qkU)
 
-[Read more about it here](https://gitcoin.co/blog/defending-quadratic-funding-in-grants-round-10-and-beyond/):
+&#x20;[阅读更多资料](https://gitcoin.co/blog/defending-quadratic-funding-in-grants-round-10-and-beyond/)：
 
 {% embed url="https://gitcoin.co/blog/defending-quadratic-funding-in-grants-round-10-and-beyond/" %}
 
-Given the increasing number of sybil attacks we’ve seen from round to round, we are strongly considering taking TrustBonus and Making it a TrustRequirement next round — users will not get any matching for their donations until they verify their identity on other platforms.
+鉴于看到女巫攻击越来越多，我们着重考虑采取信用值并使其成为下一轮的信任基石条件——用户在其他平台上验证他们的身份之前，将不会得到任何匹配的捐款。

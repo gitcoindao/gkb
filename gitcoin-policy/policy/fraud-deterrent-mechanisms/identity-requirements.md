@@ -1,7 +1,7 @@
-# Identity Requirements
+# 身份要求
 
-Any contribution that can be converted to USDT will be matched during an active match round. It will be matched as from a new unique contributor provided
+任何可以转换为 USDT 的捐款都将在一个有效的匹配池里被匹配。它将被认为是来自一个全新的独立用户捐赠的。
 
-1. It is from a new identity that has not contributed before.
-2. Identity requirements continue to evolve but for Round 5 a unique identity = a Github account that is older than the CLR round.
-3. Identity requirements are subject to the pretense that a contribution is not a Sybil attack or collusion.
+1. 它是一个过去没捐赠过的新身份
+2. 身份要求继续执行，但在第五轮里一个新的身份就是 CLR 轮更早的 Github 用户
+3. 身份要求必须符合非女巫和传统攻击的捐赠

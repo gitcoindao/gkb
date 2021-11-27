@@ -1,3 +1,3 @@
-# Integration to DID
+# 与 DID 整合
 
-We use aged Github accounts, SMS verification, BrightID, a few other undisclosed vectors, and (soon) Idena Network/ other DID solutions, as an identity solution for Gitcoin Grant contributions. Check out the trust tab of your profile to increase your trust level.
+我们使用资历老的 Github 账户、短信验证、BrightID以及（即将）Idena Network等其他一些未公开的方式作为 Gitcoin Grant 捐赠者的身份判断解决方案。请查看你的个人资料中的信任值，以提高你的信任度。
