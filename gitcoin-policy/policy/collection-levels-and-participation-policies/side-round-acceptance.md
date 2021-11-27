@@ -1,5 +1,5 @@
-# Side-Round Acceptance
+# 附属轮次共识
 
-A separate ecosystem using the hype of a larger round to promote an unrelated round. “Gitcoin Building Gitcoin” during GR10 - Funds for matching provided by Gitcoin Holdings, therefore they set the Ecosystem and Round participation policy.
+一个独立的生态系统利用每一轮大的捐赠获得来为自己特定项目争取捐赠。例如在 GR10 期间，"Gitcoin Building Gitcoin" 就是由 Gitcoin Holdings 提供配套资金的，因此他们制定了特殊的生态系统和参与政策。
 
-The GitcoinDAO stewards need to ratify the round per usual, but by identifying it as a "side-round" it notifies the explicit intent to piggyback on the larger ecosystem.
+GitcoinDAO 管家需要按常规来审核每个项目，但遇到”附属“捐赠时候会注意到，这是这个项目是在更大的一个生态系统上附着的，需要被特殊查看。

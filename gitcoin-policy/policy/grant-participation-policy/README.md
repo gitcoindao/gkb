@@ -1,11 +1,13 @@
-# Grant Participation Policy
+# 捐款参与政策
 
-The current rules come from the [Gitcoin Holdings Inc. Terms of Service](https://gitcoin.co/legal/terms) and the established norms of the community. The next step in progressively decentralizing is to have the stewards of GitcoinDAO ratify the entirety of this policy.
+目前的规则来自于 [Gitcoin Holdings Inc](https://gitcoin.co/legal/terms). 服务条款和社区的既定规范。逐步去中心化的下一步目标是让 GitcoinDAO 的管家们审批准这一政策的全部内容。
 
-New grants are all reviewed prior to being activated on the platform. Grants are evaluated for both their platform eligibility and for participation in the rounds they select.
+新的项目在开始前都需要接受审查，主要审查平台合规性，以及是否适用于当前轮次。
 
-**There are multiple levels for approval.**
 
-Platform | Ecosystem | Round | Collection
 
-At each level, the participation policy allows for a subset of the grants at the higher level.
+**不同等级的审核**
+
+平台 | 生态系统 | 轮次 | 合集
+
+在每个等级上，审核标准都是向下兼容。
