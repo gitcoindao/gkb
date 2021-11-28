@@ -1,33 +1,30 @@
-# Ethereum Ecosystem Participation Policy (GR11, GR10, GR9, etc.)
+# 以太坊生态系统参与政策 (GR11、GR10、GR9 等)
 
-All the Platform Participation Policy plus
+所有平台参与政策：
 
-* Avoid any form of quid pro quo that has financial value (a scenario in which a user gets some additional unique benefit/award in return for their donation).
-*   No non-ethereum related projects
+* 避免任何形式的具有经济价值的交换条件（即用户通过捐赠获得一些额外的特殊利益/ 奖励的情况）。
+* 没有非以太坊相关的项目
 
-    **Non Ethereum related projects**
+![](https://lh3.googleusercontent.com/FmA-OA4gmxHzekwzPCJXKoMXiF1YBlVs1BwAvl3-fjKlc3Gde\_R\_u4QiJ\_ZqTbOH8RlSZMBT0Aik3IYT8QtDXslQbiHhpCR0mUUcaYN\_fKochWyNPODRBBrYHn\_xvsvWNEaD0-s)
 
-![](https://lh3.googleusercontent.com/FmA-OA4gmxHzekwzPCJXKoMXiF1YBlVs1BwAvl3-fjKlc3Gde_R_u4QiJ_ZqTbOH8RlSZMBT0Aik3IYT8QtDXslQbiHhpCR0mUUcaYN_fKochWyNPODRBBrYHn_xvsvWNEaD0-s)
+每一轮，非以太坊项目都会参与。这包括其他链上的 Web3 小组。在 GR9 中，我们看到了第一个币安智能链（BSC）上的 NFT项目 [ARTSTRO](https://gitcoin.co/grants/2434/artstro) 的赞助。
 
-Every round Non-Ethereum projects seek to participate. This includes Web3 groups on other chains. In GR9 we saw our first Binance Smart Chain (BSC) grant from an NFT project called [ARTSTRO](https://gitcoin.co/grants/2434/artstro).
+**Gitcoin 的行动:**
 
-**Gitcoin Action:**
+在前几轮中，我们形成了不允许对以太坊以外的项目进行补助的先例，所以我们禁用了这个补助。但是否允许其他链是社区的一个开放式治理问题。
 
-In earlier rounds the precedent was set to not allow grants for projects outside of Ethereum, so we disabled this grant. But whether or not to permit other chains is an open governance question for the community.
+*   不得为一个实体提供不同类别的多项资助
 
-*   No multiple grants for one entity in different categories
+    在不同类别中获得多项资助的项目
 
-    **Project with Multiple Grants in Different Categories.**
+    2021 年 3 月 17 日，有一个关于两项[赏金](https://twitter.com/GitcoinDisputes/status/1372315090515415042)的争议。
+* EtherDrops (dApp 类型)
+* DropsEarn (Community 类型)
 
-    There was a [dispute](https://twitter.com/GitcoinDisputes/status/1372315090515415042) raised on March 17th, 2021 regarding two grants:
+这两个项目都隶属于 DROPS 基金会。
 
-    * EtherDrops (dApp Category)
-    * DropsEarn (Community Category)
+如果这两笔赠款属于同一类别，那么[配对绑定](https://ethresear.ch/t/pairwise-coordination-subsidies-a-new-quadratic-funding-design/5553)就会削弱两笔赠款有类似贡献者的影响。但它们不是。
 
-    Both projects are affiliated with the DROPS Foundation.
+**Gitcoin 的行动:**
 
-    If the grants had been in the same category, then [pairwise bonding](https://ethresear.ch/t/pairwise-coordination-subsidies-a-new-quadratic-funding-design/5553) would have muted the impact of both grants having similar contributors. But they were not.
-
-    **Gitcoin Action:**
-
-    The community went [back and forth with the founders of the DROPS Foundation](https://twitter.com/GitcoinDisputes/status/1372551235471958020), and ultimately decided that having similar grants from the same company dominating different categories with similar contributors, represented a threat to the legitimacy of the round. In response, the Gitcoin Team disabled matching on one (but not both) of the grants.
+社区与 [DROPS 基金会的创始人来回讨论](https://twitter.com/GitcoinDisputes/status/1372551235471958020)，并最终决定，来自同一家公司的类似赠款在不同类别中占据了类似的贡献者，代表了对该轮募资合法性的威胁。作为回应，Gitcoin 团队取消了对其中一个（但不是两个）资助的匹配。
