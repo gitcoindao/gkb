@@ -9,6 +9,15 @@
 ## Gitcoin DAO
 
 * [What is a DAO ?](gitcoin-dao/what-is-a-dao.md)
+* [DAO WorkStreams](gitcoin-dao/dao-workstreams/README.md)
+  * [FDD](gitcoin-dao/dao-workstreams/fdd/README.md)
+    * [Get started with FDD](gitcoin-dao/dao-workstreams/fdd/get-started-with-fdd.md)
+    * [Mission, Vision & Values](gitcoin-dao/dao-workstreams/fdd/mission-vision-and-values.md)
+    * [Operations & Deliverables](gitcoin-dao/dao-workstreams/fdd/operations-and-deliverables/README.md)
+      * [WorkStream Governance Structure](gitcoin-dao/dao-workstreams/fdd/operations-and-deliverables/workstream-governance-structure.md)
+      * [Contributors Core Value](gitcoin-dao/dao-workstreams/fdd/operations-and-deliverables/contributors-core-value.md)
+      * [Roadmap](gitcoin-dao/dao-workstreams/fdd/operations-and-deliverables/roadmap.md)
+* [Page 1](gitcoin-dao/page-1.md)
 * [DAO FAQ](gitcoin-dao/dao-faq/README.md)
   * [What is GitcoinDAO?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [What is Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
