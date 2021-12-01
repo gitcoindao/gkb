@@ -1,7 +1,7 @@
 ---
 description: >-
-  The ultimate goal of Web 3.0 is to create more intelligent, connected yet
-  decentralised, secure, accessible and open applications.
+  Connect with the community developing digital public goods, creating financial
+  freedom, and defining the future of the open web.
 ---
 
 # Welcome to Gitcoin
