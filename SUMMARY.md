@@ -1,15 +1,8 @@
 # Table of contents
 
-* [Bienvenue dans le Web 3.0](README.md)
-* [Hackathons](hackathons.md)
-* [Primes](bounties.md)
-* [Quêtes](quests.md)
-* [Subventions](grants.md)
-
 ## Gitcoin DAO
 
-* [Qu'est-ce qu'une DAO ?](gitcoin-dao/what-is-a-dao.md)
-* [DAO FAQ](gitcoin-dao/dao-faq/README.md)
+* [DAO FAQ](README.md)
   * [Qu'est-ce que GitcoinDAO ?](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [Que sont les Quadratic Lands?](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
   * [Que sont les chantiers de gouvernance ?](gitcoin-dao/dao-faq/what-are-governance-workstreams.md)
@@ -23,7 +16,6 @@
 
 ## Gitcoin Token
 
-* [What is a token ?](gitcoin-token/what-is-a-token.md)
 * [GTC FAQ](gitcoin-token/gtc-faq/README.md)
   * [Pourquoi Gitcoin lance-t-il un jeton ?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
   * [Quelle est l'adresse du token GTC ?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
@@ -66,14 +58,12 @@
 
 ## Gitcoin Bounties
 
-* [Comment fonctionnent les primes ?](gitcoin-bounties/how-bounties-work.md)
 * [Bounties FAQ](gitcoin-bounties/bounties-faq/README.md)
   * [Comment démarrer avec les primes?](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [Comment soumettre mon travail ?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
 ## Gitcoin Quests
 
-* [Que sont les Quêtes et les Kudos ?](gitcoin-quests/what-are-gitcoin-quests-and-kudos.md)
 * [Quests FAQ](gitcoin-quests/quests-faq/README.md)
   * [Comment "minter" un Kudo ?](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
   * [Comment utiliser les kudos ?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)

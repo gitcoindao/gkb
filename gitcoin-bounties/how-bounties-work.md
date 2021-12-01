@@ -1,2 +1,0 @@
-# Comment fonctionnent les primes ?
-
