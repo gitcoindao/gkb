@@ -1,2 +1,0 @@
-# WorkStream Governance Structure
-

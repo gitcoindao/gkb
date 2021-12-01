@@ -1,2 +1,0 @@
-# Evaluation Squads
-

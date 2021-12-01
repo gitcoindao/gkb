@@ -1,2 +1,0 @@
-# Mission, Vision & Values
-
