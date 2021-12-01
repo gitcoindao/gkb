@@ -37,7 +37,7 @@ There are three important concepts to know to understand how to interact with Gi
 
 1. Most of the action happens on [discord](https://gitcoin.co/discord), [gov.gitcoin.co](https://gov.gitcoin.co), or on [twitter](https://twitter.com/gitcoin)
 2. [Stewards](https://gitcoin.co/blog/introducing-the-community-stewards-program/) are ultimately responsible for governing GitcoinDAO.
-3. \[Workstreams] are the primary mechanism through which work is organized in the DAO.
+3. Workstreams are the primary mechanism through which work is organized in the DAO.
 
 #### DAO Workstreams
 
