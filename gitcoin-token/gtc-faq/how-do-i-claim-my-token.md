@@ -1,10 +1,9 @@
 # Comment puis-je réclamer mon jeton ?
 
-La distribution de jetons est maintenant terminée depuis 9:00 AM MDT 🕒.
+La distribution de jetons est terminée 🕒.
 
-Mais vous pouvez toujours rejoindre un chantier pour participer à la gouvernance de Gitcoin !
+Mais vous pouvez toujours rejoindre un groupe de travail pour participer à la gouvernance de Gitcoin !
 
-Si vous avez précédemment soumis un ticket de support pour que nous enquêtions sur les raisons pour lesquelles vous avez ou non reçu un airdrop GTC, nous travaillons toujours sur ce point.
+Si vous avez  soumis un ticket au support par ce que vous n'avez pas reçu le airdrop, alors que cela devrait être le cas, , nous travaillons dessus.
 
 Merci d'être patient !
-
