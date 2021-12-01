@@ -1,14 +1,9 @@
 # Table of contents
 
 * [欢迎来到 Gitcoin](README.md)
-* [黑客松](hackathons.md)
-* [捐款](bounties.md)
-* [观众](quests.md)
-* [赏金](grants.md)
 
 ## Gitcoin DAO
 
-* [什么是 DAO ?](gitcoin-dao/what-is-a-dao.md)
 * [DAO 常见问题](gitcoin-dao/dao-faq/README.md)
   * [什么是 GitcoinDAO？](gitcoin-dao/dao-faq/what-is-gitcoindao.md)
   * [什么是 Quadratic Lands？](gitcoin-dao/dao-faq/what-is-quadratic-lands.md)
@@ -23,7 +18,6 @@
 
 ## Gitcoin Token
 
-* [什么是代币](gitcoin-token/what-is-a-token.md)
 * [GTC 常见问题](gitcoin-token/gtc-faq/README.md)
   * [Gitcoin 为什么发行代币？](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
   * [GTC 的地址是什么？](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
@@ -66,14 +60,12 @@
 
 ## Gitcoin Bounties
 
-* [赏金是如何工作的？](gitcoin-bounties/how-bounties-work.md)
 * [赏金常见问题](gitcoin-bounties/bounties-faq/README.md)
   * [如何开启赏金？](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [如何提交工作？](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
 ## Gitcoin Quests
 
-* [什么是 Gitcoin Quests 和 Kudos？](gitcoin-quests/what-are-gitcoin-quests-and-kudos.md)
 * [Quests 常见问题](gitcoin-quests/quests-faq/README.md)
   * [我如何铸造一个感谢卡？](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
   * [如何使用感谢卡?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)

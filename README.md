@@ -22,7 +22,7 @@ description: Web 3.0 的最终目标是创造更加智能、相互连接而又�
 
 **我们是如何做的？**
 
-1. \*\*\*\*[赏金计划](https://gitcoin.co/bounties/contributor) - Web3 项目相关的零工。
+1. [赏金计划](https://gitcoin.co/bounties/contributor) - Web3 项目相关的零工。
 2. [黑客松](https://gitcoin.co/hackathons) - 创建最酷的 Web3 项目。
 3. [Grants](https://gitcoin.co/grants) - 为开源代码进行众筹。
 4. [KERNEL](http://kernel.community) - 一个web3原生的、以社区为中心的加速器。
@@ -37,7 +37,7 @@ description: Web 3.0 的最终目标是创造更加智能、相互连接而又�
 
 1. 大多数更新都发生在 discord、[gov.gitcoin.co](http://gov.gitcoin.co) 或 [twitter](https://twitter.com/gitcoin) 上。
 2. [Stewards](https://gitcoin.co/blog/introducing-the-community-stewards-program/) 最终负责管理 GitcoinDAO。
-3.  \[Workstreams] 是 DAO 中组织协调工作的主要机制。
+3.  Workstreams 是 DAO 中组织协调工作的主要机制。
 
 
 
