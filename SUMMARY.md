@@ -1,14 +1,9 @@
 # Table of contents
 
 * [Welcome to Gitcoin](README.md)
-* [Hackathons](hackathons.md)
-* [Bounties](bounties.md)
-* [Quests](quests.md)
-* [Grants](grants.md)
 
 ## Gitcoin DAO
 
-* [What is a DAO ?](gitcoin-dao/what-is-a-dao.md)
 * [DAO WorkStreams](gitcoin-dao/dao-workstreams/README.md)
   * [FDD](gitcoin-dao/dao-workstreams/fdd/README.md)
     * [Get started with FDD](gitcoin-dao/dao-workstreams/fdd/get-started-with-fdd.md)
@@ -69,7 +64,6 @@
 
 ## Gitcoin Token
 
-* [What is a token ?](gitcoin-token/what-is-a-token.md)
 * [GTC FAQ](gitcoin-token/gtc-faq/README.md)
   * [Why is Gitcoin launching a token?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
   * [What is the address of GTC?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
@@ -112,14 +106,12 @@
 
 ## Gitcoin Bounties
 
-* [How bounties work ?](gitcoin-bounties/how-bounties-work.md)
 * [Bounties FAQ](gitcoin-bounties/bounties-faq/README.md)
   * [How do I get started with Bounties](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [How do I submit work?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
 ## Gitcoin Quests
 
-* [What are Gitcoin Quests & Kudos ?](gitcoin-quests/what-are-gitcoin-quests-and-kudos.md)
 * [Quests FAQ](gitcoin-quests/quests-faq/README.md)
   * [How do I mint a kudo?](gitcoin-quests/quests-faq/how-do-i-mint-a-kudo.md)
   * [How do I use kudos ?](gitcoin-quests/quests-faq/how-do-i-use-kudos.md)
