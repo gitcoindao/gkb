@@ -31,7 +31,7 @@
   * [Comment puis-je réclamer mon jeton ?](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
   * [J'ai essayé de réclamer mes jetons sur mon portable et ça n'a pas marché !](gitcoin-token/gtc-faq/i-try-to-claim-my-tokens-on-mobile-and-it-didnt-work.md)
   * [J'ai manqué la réclamation des jetons GTC, que se passe-t-il ensuite ?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
-  * [Distribution quadratique de jetons Lands support web3 - Pouvoir de vote des délégués](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
+  * [Distribution quadratique des jetons - Déléguer le pouvoir de vote](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-delegate-voting-power.md)
   * [Distribution quadratique de tokens Lands web3 support - Réclamation de tokens](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
   * [Distribution quadratique de jetons Lands web3 support - Vote par message signé](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [Qu'advient-il de mes délégations si je transfère les jetons à quelqu'un d'autre ?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
