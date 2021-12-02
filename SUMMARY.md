@@ -27,7 +27,7 @@
   * [Distribution quadratique de tokens Lands web3 support - Réclamation de tokens](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-token-claim.md)
   * [Distribution quadratique de jetons Lands web3 support - Vote par message signé](gitcoin-token/gtc-faq/quadratic-lands-token-distribution-web3-support-signed-message-vote.md)
   * [Qu'advient-il de mes délégations si je transfère les jetons à quelqu'un d'autre ?](gitcoin-token/gtc-faq/what-happens-to-my-delegations-if-i-transfer-the-tokens-to-someone-else.md)
-  * [Quels types de choses la communauté peut-elle régir avec la CTG ?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
+  * [Que peut faire la communauté avec ses CTG ?](gitcoin-token/gtc-faq/what-types-of-things-can-the-community-govern-with-gtc.md)
   * [Pourquoi je n'ai pas de jetons ?](gitcoin-token/gtc-faq/why-dont-i-have-tokens.md)
 
 ## Gitcoin Grants
