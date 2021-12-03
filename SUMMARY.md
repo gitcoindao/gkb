@@ -19,7 +19,7 @@
 * [GTC FAQ](gitcoin-token/gtc-faq/README.md)
   * [Pourquoi Gitcoin lance-t-il un jeton ?](gitcoin-token/gtc-faq/why-is-gitcoin-launching-a-token.md)
   * [Quelle est l'adresse du token GTC ?](gitcoin-token/gtc-faq/what-is-the-address-of-gtc.md)
-  * [Qu'est-ce que l'émission du GTC ?](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
+  * [Tout savoir sur l'émission du GTC](gitcoin-token/gtc-faq/what-is-the-gtc-issuance.md)
   * [Comment puis-je réclamer mon jeton ?](gitcoin-token/gtc-faq/how-do-i-claim-my-token.md)
   * [J'ai essayé de réclamer mes jetons sur mon portable et ça n'a pas fonctionné !](gitcoin-token/gtc-faq/i-try-to-claim-my-tokens-on-mobile-and-it-didnt-work.md)
   * [J'ai manqué la réclamation des jetons GTC, que se passe-t-il ensuite ?](gitcoin-token/gtc-faq/i-missed-the-gtc-token-claim-what-happens-next.md)
