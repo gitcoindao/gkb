@@ -1,14 +1,14 @@
 # Comment utiliser les kudos ?
 
-**Que sont les Kudos ?**
+**Les Kudos ? Qu'est ce que c'est?**
 
-Les Kudos sont une façon étonnante et innovante de montrer son appréciation et de construire des relations. Pensez-y comme une marque d'appréciation ou un autocollant signifiant un excellent travail. En outre, c'est aussi un moyen de mettre en valeur les compétences spéciales d'un membre, comme Pythonista ou Design Star. Les jetons Kudos peuvent être achetés et vendus sur la place de marché Kudos.
+Les Kudos sont une façon étonnante et innovante de montrer son appréciation et de construire des relations avec d'autres membres. Voyez les comme marque d'appréciation ou un autocollant représentant un excellent travail. En outre, c'est aussi un moyen de mettre en avant certaines compétences d'un membre, comme Pythonista ou Design Star. Les jetons Kudos peuvent être achetés et vendus sur le Kudos Marketplace.
 
 Vous trouverez de plus amples informations sur les Kudos ici: [YouTube](https://youtu.be/EOlMTOzmKKk)
 
-**Minting Kudos**
+**Minter des Kudos**
 
-L'attribution de Kudos est un excellent moyen de représenter votre marque, d'engager une communauté et de créer des récompenses pour les actions souhaitées. Pour ce faire, il suffit de fournir des informations et de créer une œuvre d'art en rapport avec le Kudo au format SVG. Vous pouvez également soumettre une demande pour que quelqu'un crée l'illustration en votre nom.
+La création de Kudos est un excellent moyen de représenter votre marque, d'engager un lien avec votre communauté et de créer des récompenses pour les actions souhaitées. Pour ce faire, il suffit de fournir quelques informations et de créer une œuvre d'art en rapport avec le Kudo en question au format SVG. Vous pouvez également soumettre un bounty pour que quelqu'un crée l'illustration pour vous.
 
 **Comment obtenir des Kudos ?**
 
@@ -26,4 +26,3 @@ Ils servent à:
 4. Voir avec qui les autres collaborent
 5. Envoyer des félicitations sous forme de pourboire
 6. Se faire valider par Web3 et OSS
-
