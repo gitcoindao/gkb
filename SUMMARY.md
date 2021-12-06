@@ -59,7 +59,7 @@
 ## Gitcoin Bounties
 
 * [Bounties FAQ](gitcoin-bounties/bounties-faq/README.md)
-  * [Comment démarrer avec les primes?](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
+  * [Comment démarrer avec les Bounties?](gitcoin-bounties/bounties-faq/how-do-i-get-started-with-bounties.md)
   * [Comment soumettre mon travail ?](gitcoin-bounties/bounties-faq/how-do-i-submit-work.md)
 
 ## Gitcoin Quests
