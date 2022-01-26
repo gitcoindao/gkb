@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: upload-files-to-web3-storage
-        uses: gitcoindao/dCompass-Gitbook-action@master
+        uses: gitcoindao/dCompass-Gitbook-action@main
         env:
           DID_KEY: ${{ secrets.DID_KEY }}
           WEB3STORAGE_TOKEN: ${{ secrets.WEB3STORAGE_TOKEN }}
