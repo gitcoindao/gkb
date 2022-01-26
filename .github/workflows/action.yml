@@ -10,8 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@master
       - name: upload-files-to-web3-storage
-        uses: Discovery-Labs/dCompass-Gitbook-action@v0.0.1-charlie
+        uses: gitcoindao/dCompass-Gitbook-action@master
         env:
           DID_KEY: ${{ secrets.DID_KEY }}
           WEB3STORAGE_TOKEN: ${{ secrets.WEB3STORAGE_TOKEN }}
